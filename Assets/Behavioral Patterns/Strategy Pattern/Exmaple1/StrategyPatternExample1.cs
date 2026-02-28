@@ -86,11 +86,11 @@ namespace StrategyPatternExample1
     class SortedList
     {
         private List<string> _list = new List<string>();
-        private SortStrategy _sortstrategy;
+        private SortStrategy _sortStrategy;
 
         public void SetSortStrategy(SortStrategy sortstrategy)
         {
-            this._sortstrategy = sortstrategy;
+            this._sortStrategy = sortstrategy;
         }
 
         public void Add(string name)
@@ -100,7 +100,7 @@ namespace StrategyPatternExample1
 
         public void Sort()
         {
-            _sortstrategy.Sort(_list);
+            _sortStrategy.Sort(_list);
             // Iterate over list and display results
             foreach (string name in _list)
             {

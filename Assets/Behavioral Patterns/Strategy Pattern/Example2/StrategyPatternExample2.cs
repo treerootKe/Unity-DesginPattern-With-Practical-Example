@@ -97,7 +97,7 @@ namespace StrategyPatternExample2
     }
 }
 
-// Rembember:
+// Remember:
 // ALWAYS
 // eliminate duplicate code
 // eliminate technices that allow one class to affect others
