@@ -1,19 +1,21 @@
 ﻿using System.Collections.Generic;
+using Behavioral_Patterns.Observer_Strategy_Achievement.StrategyMode;
 
-namespace Behavioral_Patterns.ChainOfResponsibility_Achievement_Mine
+namespace Behavioral_Patterns.Observer_Strategy_Achievement
 {
     /// <summary>
     /// 成就信息
     /// </summary>
-    public class AchievementInfo
+    public class AchievementConfig
     {
-        public string AchievementId; // 成就ID，成就唯一标识
+        public long AchievementId; // 成就ID，成就唯一标识
+        public AchievementStrategyType AchievementStrategyType;// 成就策略类型
         public string AchievementCategory; // 成就大类：地区成就、生涯成就、战斗成就......
         public string AchievementParentsName; // 成就父类名称，如：坚持不懈
         public string AchievementName; // 成就名称，成就类型下的成就名字，如：道具收藏家、登录达人、消费高手......
         public string AchievementDescription; // 成就描述，如：获得10/100/1000个道具、登录第10/20/30天、消费100/1000/10000元......
         public List<long> AchievementTargets; // 成就目标值集合，如：10/100/1000个、10/20/30天、100/1000/10000元......
-        public List<PropData> AchievementRewards; // 成就奖励集合，如：成就积分、金币、道具......
+        public List<AchievementReward> AchievementRewards; // 成就奖励集合，如：成就积分、金币、道具......
         
         /* 成就结构：
          成就大类->成就父类名->成就名称->成就描述

@@ -27,7 +27,7 @@ namespace Behavioral_Patterns.ChainOfResponsibility_Achievement
             // 记录移动（轻量级，不触发检查）
             if (currentPos != _lastPosition)
             {
-                AchievementManager.Instance?.RecordMovement(_lastPosition, currentPos, _currentTerrain);
+                // AchievementManager.Instance?.RecordMovement(_lastPosition, currentPos, _currentTerrain);
                 _lastPosition = currentPos;
             }
         }
