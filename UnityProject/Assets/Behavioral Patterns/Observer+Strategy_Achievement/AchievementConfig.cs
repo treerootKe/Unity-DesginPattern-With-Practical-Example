@@ -1,0 +1,54 @@
+﻿using System.Collections.Generic;
+using Behavioral_Patterns.Observer_Strategy_Achievement.StrategyMode;
+
+namespace Behavioral_Patterns.Observer_Strategy_Achievement
+{
+    /// <summary>
+    /// 成就信息
+    /// </summary>
+    public class AchievementConfig
+    {
+        public long AchievementId; // 成就ID，成就唯一标识
+        public AchievementStrategyType AchievementStrategyType;// 成就策略类型
+        public string AchievementCategory; // 成就大类：地区成就、生涯成就、战斗成就......
+        public string AchievementParentsName; // 成就父类名称，如：坚持不懈
+        public string AchievementName; // 成就名称，成就类型下的成就名字，如：道具收藏家、登录达人、消费高手......
+        public string AchievementDescription; // 成就描述，如：获得10/100/1000个道具、登录第10/20/30天、消费100/1000/10000元......
+        public List<long> AchievementTargets; // 成就目标值集合，如：10/100/1000个、10/20/30天、100/1000/10000元......
+        public List<AchievementReward> AchievementRewards; // 成就奖励集合，如：成就积分、金币、道具......
+        
+        /* 成就结构：
+         成就大类->成就父类名->成就名称->成就描述
+         
+         $生涯成就
+            ——坚持不懈
+                --等级成长（等级到达10/20/30级）
+                --锻造失败（锻造武器失败次数达到10/20/30）
+                --饭后走一走（行走距离达到10000/100000/1000000米）
+            ——盆满钵满
+                --道具收藏家（收集10/20/30个道具）
+                --金币收藏家（金币数量达到100/1000/10000）
+            ——社交大咖
+                --交个朋友（好友数量达到10/20/30）
+                --友好往来（和任意好友互动次数达到10/20/30次）
+         $战斗成就
+            ——Boss达人
+                --雷龙猎杀者（击败雷龙10/20/30次）
+                --化险为夷·雷龙（血量低于10%，击败雷龙）
+                --魔猿猎杀者（击败魔猿10/20/30次）
+                --化险为夷·魔猿（血量低于10%，击败魔猿）
+            ——登峰造极
+                --最锋利的矛（攻击力达到100/200/300）
+                --最坚固的盾（防御力达到100/200/300）
+                --最敏捷的身手（速度达到100/200/300）
+         $地区成就
+            ——格兰达·南部地区
+                --探索专家（格兰达·南部地区探索度达到10/50/100%）
+                --宝箱猎手（格兰达·南部地区宝箱数量开启10/20/30个）
+            ——格兰达·北部地区
+                --探索专家（格兰达·北部地区探索度达到10/50/100%）
+                --宝箱猎手（格兰达·北部地区宝箱数量开启10/20/30个）
+                
+        */
+    }
+}
