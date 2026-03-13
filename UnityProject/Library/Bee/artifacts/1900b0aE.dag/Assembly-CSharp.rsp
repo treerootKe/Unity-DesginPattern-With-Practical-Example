@@ -1,0 +1,539 @@
+-target:library
+-out:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll"
+-refout:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll"
+-define:UNITY_2021_3_45
+-define:UNITY_2021_3
+-define:UNITY_2021
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_VIRTUALTEXTURING
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:PLATFORM_STANDALONE
+-define:TEXTCORE_1_0_OR_NEWER
+-define:PLATFORM_STANDALONE_WIN
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:UNITY_UGP_API
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_NVIDIA
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_IG
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"D:/GitRepository/Unity-Design-Pattern/UnityProject/Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
+-r:"D:/GitRepository/Unity-Design-Pattern/UnityProject/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll"
+-r:"D:/GitRepository/Unity-Design-Pattern/UnityProject/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll"
+-r:"D:/GitRepository/Unity-Design-Pattern/UnityProject/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UIWidgetsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"E:/EditorInstall/2021.3.45f2c1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Analytics.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Luban.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Luban.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Purchasing.Common.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Analytics.DataPrivacy.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.Analytics.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.Environments.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.Purchasing.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.SpatialTracking.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.XR.LegacyInputHelpers.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Advertisements.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Advertisements.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Purchasing.Codeless.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Purchasing.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Purchasing.SecurityCore.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Purchasing.SecurityStub.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.Purchasing.Stores.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/Behavioral Patterns/Chain of Responsibility Pattern/Example1/ChainOfResponsibilityExample1.cs"
+"Assets/Behavioral Patterns/Chain of Responsibility Pattern/Example2/ChainOfResponsibilityExample2.cs"
+"Assets/Behavioral Patterns/Chain of Responsibility Pattern/Structure/ChainOfResponsibilityStructure.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/AbstractDamageHandler.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/ChainOfRespRequest.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/CharactersInfo.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/DamageInfo.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/DamageReboundHandler.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/DefenseHandler.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/DodgeHandler.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/HealthPoolHandler.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibilityMine/ShieldHandler.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibility_Achievement/AbstractAchievementChecker.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibility_Achievement/AchieventInfo.cs"
+"Assets/Behavioral Patterns/ChainOfResponsibility_Achievement/PlayerMovement.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example1/CommandExample1.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/DeviceButton.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/ICommand.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/IElectronicDevice.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/Radio.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/Television.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/TestCommandPattern.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/TurnItAllOff.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/TurnTVOff.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/TurnTVOn.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/TurnVolumeDown.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/TurnVolumeUp.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example2/TVRemove.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example3/Command.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example3/InputHandler.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example3/MoveCommand.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example3/MoveCommandReceiver.cs"
+"Assets/Behavioral Patterns/Command Pattern/Example4/CommandPatternExample4.cs"
+"Assets/Behavioral Patterns/Command Pattern/Structure/CommandStructure.cs"
+"Assets/Behavioral Patterns/Interpreter Pattern/Example1/InterpreterExample1.cs"
+"Assets/Behavioral Patterns/Interpreter Pattern/Example2/InterpreterExample2.cs"
+"Assets/Behavioral Patterns/Interpreter Pattern/Structure/InterpreterStructrue.cs"
+"Assets/Behavioral Patterns/Iterator Pattern/Example1/IteratorExample1.cs"
+"Assets/Behavioral Patterns/Iterator Pattern/Example2/IteratorExample2.cs"
+"Assets/Behavioral Patterns/Iterator Pattern/Structure/IteratorStructure.cs"
+"Assets/Behavioral Patterns/Mediator Pattern/Example1/MediatorExample1.cs"
+"Assets/Behavioral Patterns/Mediator Pattern/Example2/MediatorExample2.cs"
+"Assets/Behavioral Patterns/Mediator Pattern/Structure/MediatorStructure.cs"
+"Assets/Behavioral Patterns/Memento Pattern/Example1/MementoExample1.cs"
+"Assets/Behavioral Patterns/Memento Pattern/Example2/MementoExample2.cs"
+"Assets/Behavioral Patterns/Memento Pattern/Structure/MementoStructure.cs"
+"Assets/Behavioral Patterns/Observer Pattern/Example1/ObserverExample1.cs"
+"Assets/Behavioral Patterns/Observer Pattern/Structure/ObserverStructure.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/AchievementConfig.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/AchievementItem.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/AchievementManager.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/AchievementReward.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/ObserverEvent/BossKilledEvent.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/ObserverEvent/IGameAchievementEvent.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/ObserverEvent/MapEnterEvent.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/ObserverEvent/QuantityChangedEvent.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/ObserverStrategyTest.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/PlayerAchievementData.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/PlayerController.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/PropData.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/StrategyMode/AchievementStrategyFactory.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/StrategyMode/AchievementStrategyType.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/StrategyMode/BossKillCountHandler.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/StrategyMode/BossKillLowHpHandler.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/StrategyMode/IAchievementHandler.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/StrategyMode/QuantityReachHandler.cs"
+"Assets/Behavioral Patterns/Observer+Strategy_Achievement/UIAchievement.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple1/StateExample1.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple2/StateExmaple2.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple3/ATMMachine.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple3/ATMState.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple3/HasCard.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple3/HasPin.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple3/NoCard.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple3/NoCash.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple3/TestATMMachine.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple4/DrivingState.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple4/DuckingState.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple4/Heroine.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple4/HeroineBaseState.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple4/JumpingState.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple4/StandingState.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple4/TestHeroine.cs"
+"Assets/Behavioral Patterns/State Pattern/Exmaple5/StatePatternExample5.cs"
+"Assets/Behavioral Patterns/State Pattern/Structure/StateStructure.cs"
+"Assets/Behavioral Patterns/Strategy Pattern/Example2/BadCodeExample.cs"
+"Assets/Behavioral Patterns/Strategy Pattern/Example2/StrategyPatternExample2.cs"
+"Assets/Behavioral Patterns/Strategy Pattern/Exmaple1/StrategyPatternExample1.cs"
+"Assets/Behavioral Patterns/Strategy Pattern/Structure/StrategyStructure.cs"
+"Assets/Behavioral Patterns/Template Method Pattern/Exmaple1/TemplateMethodPatternExample1.cs"
+"Assets/Behavioral Patterns/Template Method Pattern/Structure/TemplateMethodStructure.cs"
+"Assets/Behavioral Patterns/Visitor Pattern/Exmaple1/VisitorPatternExample1.cs"
+"Assets/Behavioral Patterns/Visitor Pattern/Exmaple2/VisitorPatternExample2.cs"
+"Assets/Behavioral Patterns/Visitor Pattern/Structure/VisitorStructure.cs"
+"Assets/Creational Patterns/Abstract Factory Pattern/Example1/AbstractFactoryPatternExample1.cs"
+"Assets/Creational Patterns/Abstract Factory Pattern/Example2/AbstractFactoryPatternExample2.cs"
+"Assets/Creational Patterns/Abstract Factory Pattern/Structure/AbstractFactoryStructrue.cs"
+"Assets/Creational Patterns/Builder Pattern/Example1/BuilderPatternExample1.cs"
+"Assets/Creational Patterns/Builder Pattern/Example2/BuilderPatternExample2.cs"
+"Assets/Creational Patterns/Builder Pattern/Structure/BuilderStructure.cs"
+"Assets/Creational Patterns/Factory Method Pattern/Example1/FactoryMethodPatternExample1.cs"
+"Assets/Creational Patterns/Factory Method Pattern/Example2/FactoryMethodPatternExample2.cs"
+"Assets/Creational Patterns/Factory Method Pattern/Structure/FactoryMethodStructure.cs"
+"Assets/Creational Patterns/Prototype Pattern/Example1/PrototypePatternExample1.cs"
+"Assets/Creational Patterns/Prototype Pattern/Example2/PrototypePatternExample2.cs"
+"Assets/Creational Patterns/Prototype Pattern/Structure/PrototypeStructure.cs"
+"Assets/Creational Patterns/Singleton Pattern/Example1/SingletonPatternExample1.cs"
+"Assets/Creational Patterns/Singleton Pattern/Example2/SingletonPatternExample2.cs"
+"Assets/Creational Patterns/Singleton Pattern/Example3/SingletonPatternExample3.cs"
+"Assets/Creational Patterns/Singleton Pattern/Structure/SingletonStructure.cs"
+"Assets/Game Programming Patterns/Component Pattern/Example/ComponentPatternExample.cs"
+"Assets/Game Programming Patterns/Data Locality Pattern/Example/DataLocalityPatternExample.cs"
+"Assets/Game Programming Patterns/Dirty Flag Pattern/Example/DirtyFlagPatternExample.cs"
+"Assets/Game Programming Patterns/Event Queue Pattern/Example/EventQueue.cs"
+"Assets/Game Programming Patterns/Event Queue Pattern/Example/EventQueueManager.cs"
+"Assets/Game Programming Patterns/Event Queue Pattern/Example/EventQueuePatternExample.cs"
+"Assets/Game Programming Patterns/Event Queue Pattern/Example2/EventQueuePatternExample2.cs"
+"Assets/Game Programming Patterns/Event Queue Pattern/Example3/Scripts/EventManger.cs"
+"Assets/Game Programming Patterns/Event Queue Pattern/Example3/Scripts/EventQueuePatternExample3.cs"
+"Assets/Game Programming Patterns/Event Queue Pattern/Example3/Scripts/EventType.cs"
+"Assets/Game Programming Patterns/Game Loop Pattern/Example/GameLoopPatternExample.cs"
+"Assets/Game Programming Patterns/Object Pool Pattern/Example/Script/Core/PoolManager.cs"
+"Assets/Game Programming Patterns/Object Pool Pattern/Example/Script/Core/PoolObject.cs"
+"Assets/Game Programming Patterns/Object Pool Pattern/Example/Script/Example/ObjectPoolExample.cs"
+"Assets/Game Programming Patterns/Object Pool Pattern/Example/Script/Example/PoolObjectBehaviour.cs"
+"Assets/Game Programming Patterns/Service Locator Pattern/Example/ServiceLocatorPatternExample.cs"
+"Assets/Game Programming Patterns/SubclassSandbox Pattern/Example/FlashSpeed.cs"
+"Assets/Game Programming Patterns/SubclassSandbox Pattern/Example/GroundDive.cs"
+"Assets/Game Programming Patterns/SubclassSandbox Pattern/Example/SkyLaunch.cs"
+"Assets/Game Programming Patterns/SubclassSandbox Pattern/Example/SuperPower.cs"
+"Assets/Game Programming Patterns/SubclassSandbox Pattern/Example/TestSubclassSandbox.cs"
+"Assets/Game Programming Patterns/Type Object Pattern/Example/TypeObjectPatternExample.cs"
+"Assets/Scripts/DataTables/CostDetail.cs"
+"Assets/Scripts/DataTables/demo/Tbtteess1.cs"
+"Assets/Scripts/DataTables/demo/tteess1.cs"
+"Assets/Scripts/DataTables/Tables.cs"
+"Assets/Scripts/DataTables/Test/TestDemo.cs"
+"Assets/Scripts/DataTables/Test/TestDemoMap.cs"
+"Assets/Scripts/DataTables/TestBean.cs"
+"Assets/Scripts/DataTables/TestBeanChild.cs"
+"Assets/Scripts/DataTables/TestBeanChild1.cs"
+"Assets/Scripts/DataTables/TTest.cs"
+"Assets/Scripts/DataTables/TTestMap.cs"
+"Assets/Scripts/DataTables/vector2.cs"
+"Assets/Scripts/DataTables/vector3.cs"
+"Assets/Scripts/DataTables/vector4.cs"
+"Assets/Structural Patterns/Adapter Pattern/Exmaple1/AdapterPatternExample1.cs"
+"Assets/Structural Patterns/Adapter Pattern/Exmaple2/AdapterPatternExample2.cs"
+"Assets/Structural Patterns/Adapter Pattern/Structure/AdapterStructure.cs"
+"Assets/Structural Patterns/Bridge Pattern/Exmaple1/BridgePatternExample1.cs"
+"Assets/Structural Patterns/Bridge Pattern/Exmaple2/BridgePatternExample2.cs"
+"Assets/Structural Patterns/Bridge Pattern/Structure/BridgeStructure.cs"
+"Assets/Structural Patterns/Composite Pattern/Exmaple1/CompositePatternExample1.cs"
+"Assets/Structural Patterns/Composite Pattern/Exmaple2/CompositePatternExample2.cs"
+"Assets/Structural Patterns/Composite Pattern/Structure/CompositeStructure.cs"
+"Assets/Structural Patterns/Decorator Pattern/Exmaple1/DecoratorPatternExample1.cs"
+"Assets/Structural Patterns/Decorator Pattern/Exmaple2/DecoratorPatternExample2.cs"
+"Assets/Structural Patterns/Decorator Pattern/Structure/DecoratorStructure.cs"
+"Assets/Structural Patterns/Facade Pattern/Exmaple1/FacadePatternExample1.cs"
+"Assets/Structural Patterns/Facade Pattern/Exmaple2/FacadePatternExample2.cs"
+"Assets/Structural Patterns/Facade Pattern/Structure/FacadeStructure.cs"
+"Assets/Structural Patterns/Flyweight Pattern/Exmaple1/FlyweightPatternExample1.cs"
+"Assets/Structural Patterns/Flyweight Pattern/Structure/FlyweightStructure.cs"
+"Assets/Structural Patterns/Proxy Pattern/Exmaple1/ProxyPatternExample1.cs"
+"Assets/Structural Patterns/Proxy Pattern/Structure/ProxyStructure.cs"
+-langversion:9.0
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+/nowarn:0169
+/nowarn:0649
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+/additionalfile:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.AdditionalFile.txt"

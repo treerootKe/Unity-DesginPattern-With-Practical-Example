@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using System.IO;
+using SimpleJSON;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -30,8 +32,11 @@ namespace Behavioral_Patterns.Observer_Strategy_Achievement
 
         private void Awake()
         {
-            AchievementManager = AchievementManager.Instance;
-            AchievementManager.Init();
+            string gameConfDir = "Assets/DataTablesJson"; // gen.bat中outputDataDir指向的目录
+            var tables = new DataTables.Tables(jsonFileName => JSON.Parse(File.ReadAllText($"{gameConfDir}/{jsonFileName}.json")));
+            Debug.Log(tables.TestDemoMap.DataList[0].Id);
+            // AchievementManager = AchievementManager.Instance;
+            // AchievementManager.Init();
         }
     }
 }
