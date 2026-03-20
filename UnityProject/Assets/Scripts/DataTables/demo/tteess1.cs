@@ -19,6 +19,7 @@ public sealed partial class tteess1 : Luban.BeanBase
     {
         { if(!_buf["id"].IsNumber) { throw new SerializationException(); }  Id = _buf["id"]; }
         { if(!_buf["name"].IsString) { throw new SerializationException(); }  Name = _buf["name"]; }
+        { if(!_buf["desc"].IsString) { throw new SerializationException(); }  Desc = _buf["desc"]; }
         { if(!_buf["count"].IsNumber) { throw new SerializationException(); }  Count = _buf["count"]; }
     }
 
@@ -36,6 +37,10 @@ public sealed partial class tteess1 : Luban.BeanBase
     /// </summary>
     public readonly string Name;
     /// <summary>
+    /// 描述
+    /// </summary>
+    public readonly string Desc;
+    /// <summary>
     /// 个数
     /// </summary>
     public readonly int Count;
@@ -52,6 +57,7 @@ public sealed partial class tteess1 : Luban.BeanBase
         return "{ "
         + "id:" + Id + ","
         + "name:" + Name + ","
+        + "desc:" + Desc + ","
         + "count:" + Count + ","
         + "}";
     }

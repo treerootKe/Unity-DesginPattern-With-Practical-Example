@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using DataTables;
 
 namespace Behavioral_Patterns.Observer_Strategy_Achievement.StrategyMode
 {
@@ -15,34 +16,34 @@ namespace Behavioral_Patterns.Observer_Strategy_Achievement.StrategyMode
         /// <summary>
         /// 注册成就策略
         /// </summary>
-        /// <param name="achievementStrategyType">策略类型</param>
+        /// <param name="AchievementStrategyType">策略类型</param>
         /// <param name="strategyHandler">具体策略处理器</param>
         /// <param name="eventType">事件类型</param>
-        public void RegisterStrategy(AchievementStrategyType achievementStrategyType, IAchievementHandler strategyHandler, Type eventType)
+        public void RegisterStrategy(AchievementStrategyType AchievementStrategyType, IAchievementHandler strategyHandler, Type eventType)
         {
-            _strategyDict.Add(achievementStrategyType, strategyHandler);
+            _strategyDict.Add(AchievementStrategyType, strategyHandler);
 
-            _eventTypeDict.TryAdd(achievementStrategyType, eventType);
+            _eventTypeDict.TryAdd(AchievementStrategyType, eventType);
         }
         
         /// <summary>
         /// 获取成就策略处理器
         /// </summary>
-        /// <param name="achievementStrategyType">策略类型</param>
+        /// <param name="AchievementStrategyType">策略类型</param>
         /// <returns></returns>
-        public IAchievementHandler GetHandler(AchievementStrategyType achievementStrategyType)
+        public IAchievementHandler GetHandler(AchievementStrategyType AchievementStrategyType)
         {
-            return _strategyDict.GetValueOrDefault(achievementStrategyType);
+            return _strategyDict.GetValueOrDefault(AchievementStrategyType);
         }
 
         /// <summary>
         /// 获取成就对应事件类型
         /// </summary>
-        /// <param name="achievementStrategyType">成就策略类型</param>
+        /// <param name="AchievementStrategyType">成就策略类型</param>
         /// <returns></returns>
-        public Type GetEventType(AchievementStrategyType achievementStrategyType)
+        public Type GetEventType(AchievementStrategyType AchievementStrategyType)
         {
-            return _eventTypeDict.GetValueOrDefault(achievementStrategyType);
+            return _eventTypeDict.GetValueOrDefault(AchievementStrategyType);
         }
     }
 }

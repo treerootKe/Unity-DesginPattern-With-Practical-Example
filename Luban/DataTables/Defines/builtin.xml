@@ -18,4 +18,10 @@
         <var name="itemId" type="int" alias="物品id" />
         <var name="consume" type="long" alias="物品数量" />
     </bean>
+
+  <constalias name="ITEM0" value="1001"/>
+  <constalias name="ITEM1" value="1002"/>
+  <constalias name="FLOAT1" value="1.5"/>
+  <constalias name="FLOAT2" value="2.5"/>
+
 </module>

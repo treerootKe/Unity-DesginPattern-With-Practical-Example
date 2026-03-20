@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.IO;
+using DataTables;
 using SimpleJSON;
 using UnityEngine;
 using UnityEngine.Serialization;
@@ -34,9 +35,8 @@ namespace Behavioral_Patterns.Observer_Strategy_Achievement
         {
             string gameConfDir = "Assets/DataTablesJson"; // gen.bat中outputDataDir指向的目录
             var tables = new DataTables.Tables(jsonFileName => JSON.Parse(File.ReadAllText($"{gameConfDir}/{jsonFileName}.json")));
-            Debug.Log(tables.TestDemoMap.DataList[0].Id);
-            // AchievementManager = AchievementManager.Instance;
-            // AchievementManager.Init();
+            var testDemo = tables.AchievementTable.DataMap[1];
+            Debug.Log(testDemo.AchievementRewards[0].AchievementRewards[0]);
         }
     }
 }

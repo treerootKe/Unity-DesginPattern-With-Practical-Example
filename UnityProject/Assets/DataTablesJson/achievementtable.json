@@ -1,0 +1,52 @@
+[
+  {
+    "achievement_id": 1,
+    "achievement_category": "生涯成就",
+    "achievement_Parents": "坚持不懈",
+    "achievement_name": "饭后走一走",
+    "achievement_desc": "行走距离达到*米",
+    "achievement_targets": [
+      10000,
+      100000,
+      1000000
+    ],
+    "achievement_rewards": [
+      {
+        "achievement_rewards": [
+          {
+            "enumId": 2,
+            "propCounts": 5
+          },
+          {
+            "enumId": 1,
+            "propCounts": 100
+          }
+        ]
+      },
+      {
+        "achievement_rewards": [
+          {
+            "enumId": 2,
+            "propCounts": 5
+          },
+          {
+            "enumId": 1,
+            "propCounts": 1000
+          }
+        ]
+      },
+      {
+        "achievement_rewards": [
+          {
+            "enumId": 2,
+            "propCounts": 5
+          },
+          {
+            "enumId": 1,
+            "propCounts": 10000
+          }
+        ]
+      }
+    ]
+  }
+]

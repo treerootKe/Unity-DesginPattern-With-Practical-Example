@@ -15,13 +15,13 @@ namespace DataTables
 public partial class Tables
 {
     public Test.TestDemoMap TestDemoMap {get; }
-    public TTestMap TTestMap {get; }
+    public AchievementTable AchievementTable {get; }
     public demo.Tbtteess1 Tbtteess1 {get; }
 
     public Tables(System.Func<string, JSONNode> loader)
     {
         TestDemoMap = new Test.TestDemoMap(loader("test_testdemomap"));
-        TTestMap = new TTestMap(loader("ttestmap"));
+        AchievementTable = new AchievementTable(loader("achievementtable"));
         Tbtteess1 = new demo.Tbtteess1(loader("demo_tbtteess1"));
         ResolveRef();
     }
@@ -29,7 +29,7 @@ public partial class Tables
     private void ResolveRef()
     {
         TestDemoMap.ResolveRef(this);
-        TTestMap.ResolveRef(this);
+        AchievementTable.ResolveRef(this);
         Tbtteess1.ResolveRef(this);
     }
 }

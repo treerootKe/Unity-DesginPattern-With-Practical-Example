@@ -19,7 +19,9 @@ public sealed partial class TestDemo : Luban.BeanBase
     {
         { if(!_buf["id"].IsNumber) { throw new SerializationException(); }  Id = _buf["id"]; }
         { if(!_buf["name"].IsString) { throw new SerializationException(); }  Name = _buf["name"]; }
+        { if(!_buf["desc"].IsString) { throw new SerializationException(); }  Desc = _buf["desc"]; }
         { var __json0 = _buf["prop_count"]; if(!__json0.IsArray) { throw new SerializationException(); } PropCount = new System.Collections.Generic.List<int>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { int __v0;  { if(!__e0.IsNumber) { throw new SerializationException(); }  __v0 = __e0; }  PropCount.Add(__v0); }   }
+        { var __json0 = _buf["ttest"]; if(!__json0.IsArray) { throw new SerializationException(); } Ttest = new System.Collections.Generic.Dictionary<int, CostDetail>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { int _k0;  { if(!__e0[0].IsNumber) { throw new SerializationException(); }  _k0 = __e0[0]; } CostDetail _v0;  { if(!__e0[1].IsObject) { throw new SerializationException(); }  _v0 = global::DataTables.CostDetail.DeserializeCostDetail(__e0[1]);  }  Ttest.Add(_k0, _v0); }   }
     }
 
     public static TestDemo DeserializeTestDemo(JSONNode _buf)
@@ -36,15 +38,21 @@ public sealed partial class TestDemo : Luban.BeanBase
     /// </summary>
     public readonly string Name;
     /// <summary>
+    /// 描述
+    /// </summary>
+    public readonly string Desc;
+    /// <summary>
     /// 个数
     /// </summary>
     public readonly System.Collections.Generic.List<int> PropCount;
+    public readonly System.Collections.Generic.Dictionary<int, CostDetail> Ttest;
    
     public const int __ID__ = 1138516849;
     public override int GetTypeId() => __ID__;
 
     public  void ResolveRef(Tables tables)
     {
+        foreach (var _e in Ttest.Values) { _e?.ResolveRef(tables); }
     }
 
     public override string ToString()
@@ -52,7 +60,9 @@ public sealed partial class TestDemo : Luban.BeanBase
         return "{ "
         + "id:" + Id + ","
         + "name:" + Name + ","
+        + "desc:" + Desc + ","
         + "propCount:" + Luban.StringUtil.CollectionToString(PropCount) + ","
+        + "ttest:" + Luban.StringUtil.CollectionToString(Ttest) + ","
         + "}";
     }
 }

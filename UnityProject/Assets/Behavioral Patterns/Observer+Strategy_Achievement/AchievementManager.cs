@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Behavioral_Patterns.Observer_Strategy_Achievement.ObserverEvent;
 using Behavioral_Patterns.Observer_Strategy_Achievement.StrategyMode;
+using DataTables;
 using UnityEngine;
 
 namespace Behavioral_Patterns.Observer_Strategy_Achievement
