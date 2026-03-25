@@ -15,13 +15,13 @@ namespace DataTables.Test
 {
 public partial class TestDemoMap
 {
+    private readonly System.Collections.Generic.Dictionary<int, Test.TestDemo> _dataMap;
     private readonly System.Collections.Generic.List<Test.TestDemo> _dataList;
-
-    private System.Collections.Generic.Dictionary<(int, string), Test.TestDemo> _dataMapUnion;
-
+    
     public TestDemoMap(JSONNode _buf)
     {
         int count = _buf.Count;
+        _dataMap = new System.Collections.Generic.Dictionary<int, Test.TestDemo>(count);
         _dataList = new System.Collections.Generic.List<Test.TestDemo>(count);
         
         foreach(JSONNode _ele in _buf.Children)
@@ -29,18 +29,17 @@ public partial class TestDemoMap
             Test.TestDemo _v;
             { if(!_ele.IsObject) { throw new SerializationException(); }  _v = global::DataTables.Test.TestDemo.DeserializeTestDemo(_ele);  }
             _dataList.Add(_v);
-        }
-        _dataMapUnion = new System.Collections.Generic.Dictionary<(int, string), Test.TestDemo>();
-        foreach(var _v in _dataList)
-        {
-            _dataMapUnion.Add((_v.Id, _v.Name), _v);
+            _dataMap.Add(_v.Id, _v);
         }
     }
 
+    public System.Collections.Generic.IReadOnlyDictionary<int, Test.TestDemo> DataMap => _dataMap;
     public System.Collections.Generic.IReadOnlyList<Test.TestDemo> DataList => _dataList;
 
-    public Test.TestDemo Get(int id, string name) => _dataMapUnion.TryGetValue((id, name), out Test.TestDemo __v) ? __v : default;
-    
+    public Test.TestDemo GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : default;
+    public Test.TestDemo Get(int key) => _dataMap[key];
+    public Test.TestDemo this[int key] => _dataMap[key];
+
     public void ResolveRef(Tables tables)
     {
         foreach(var _v in _dataList)
@@ -48,6 +47,7 @@ public partial class TestDemoMap
             _v.ResolveRef(tables);
         }
     }
+
 }
 
 }
