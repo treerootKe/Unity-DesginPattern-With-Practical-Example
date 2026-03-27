@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9263e266d94c4a9f813b599a30df19a5
+timeCreated: 1732720140
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "FZCuYuan"
+  fontNames:
+  - FZCuYuan-M03
+  - FZCuYuan-M03S
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: assets_gameres_uipanel_fontart_fzcuyuan.bundle
+  assetBundleVariant: 

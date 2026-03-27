@@ -29,7 +29,7 @@ public partial class AchievementTable
             AchievementData _v;
             { if(!_ele.IsObject) { throw new SerializationException(); }  _v = global::DataTables.AchievementData.DeserializeAchievementData(_ele);  }
             _dataList.Add(_v);
-            _dataMap.Add(_v.AchievementId, _v);
+            _dataMap.Add(_v.Id, _v);
         }
     }
 

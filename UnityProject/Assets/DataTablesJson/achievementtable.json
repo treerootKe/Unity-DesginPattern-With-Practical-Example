@@ -1,16 +1,16 @@
 [
   {
-    "achievement_id": 1,
-    "achievement_category": "生涯成就",
-    "achievement_Parents": "坚持不懈",
-    "achievement_name": "饭后走一走",
-    "achievement_desc": "行走距离达到*米",
-    "achievement_targets": [
+    "id": 1,
+    "category": "生涯成就",
+    "parents": "坚持不懈",
+    "name": "饭后走一走",
+    "desc": "行走距离达到*米",
+    "targets": [
       10000,
       100000,
       1000000
     ],
-    "achievement_rewards": [
+    "rewards": [
       {
         "achievement_rewards": [
           {
@@ -47,20 +47,21 @@
           }
         ]
       }
-    ]
+    ],
+    "strategy_type": 5
   },
   {
-    "achievement_id": 100001,
-    "achievement_category": "战斗成就",
-    "achievement_Parents": "Boss达人-雷龙",
-    "achievement_name": "雷龙猎杀者",
-    "achievement_desc": "击杀雷龙*次",
-    "achievement_targets": [
+    "id": 100001,
+    "category": "战斗成就",
+    "parents": "Boss达人-雷龙",
+    "name": "雷龙猎杀者",
+    "desc": "击杀雷龙*次",
+    "targets": [
       10,
       20,
       30
     ],
-    "achievement_rewards": [
+    "rewards": [
       {
         "achievement_rewards": [
           {
@@ -97,20 +98,21 @@
           }
         ]
       }
-    ]
+    ],
+    "strategy_type": 1
   },
   {
-    "achievement_id": 100002,
-    "achievement_category": "战斗成就",
-    "achievement_Parents": "Boss达人-雷龙",
-    "achievement_name": "化险为夷·雷龙",
-    "achievement_desc": "血量低于10%，击杀雷龙*次",
-    "achievement_targets": [
+    "id": 100002,
+    "category": "战斗成就",
+    "parents": "Boss达人-雷龙",
+    "name": "化险为夷·雷龙",
+    "desc": "血量低于10%，击杀雷龙*次",
+    "targets": [
       1,
       5,
       10
     ],
-    "achievement_rewards": [
+    "rewards": [
       {
         "achievement_rewards": [
           {
@@ -147,18 +149,19 @@
           }
         ]
       }
-    ]
+    ],
+    "strategy_type": 2
   },
   {
-    "achievement_id": 200001,
-    "achievement_category": "地区成就",
-    "achievement_Parents": "格兰达·南部地区",
-    "achievement_name": "欢迎来到格兰达",
-    "achievement_desc": "初次到达格兰达南部地区",
-    "achievement_targets": [
+    "id": 200001,
+    "category": "地区成就",
+    "parents": "格兰达·南部地区",
+    "name": "欢迎来到格兰达",
+    "desc": "初次到达格兰达南部地区",
+    "targets": [
       1
     ],
-    "achievement_rewards": [
+    "rewards": [
       {
         "achievement_rewards": [
           {
@@ -171,20 +174,21 @@
           }
         ]
       }
-    ]
+    ],
+    "strategy_type": 5
   },
   {
-    "achievement_id": 200002,
-    "achievement_category": "地区成就",
-    "achievement_Parents": "格兰达·南部地区",
-    "achievement_name": "探索专家",
-    "achievement_desc": "格兰达·南部地区探索度达到*%",
-    "achievement_targets": [
+    "id": 200002,
+    "category": "地区成就",
+    "parents": "格兰达·南部地区",
+    "name": "探索专家",
+    "desc": "格兰达·南部地区探索度达到*%",
+    "targets": [
       20,
       50,
       100
     ],
-    "achievement_rewards": [
+    "rewards": [
       {
         "achievement_rewards": [
           {
@@ -221,6 +225,7 @@
           }
         ]
       }
-    ]
+    ],
+    "strategy_type": 5
   }
 ]

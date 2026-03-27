@@ -17,13 +17,14 @@ public sealed partial class AchievementData : Luban.BeanBase
 {
     public AchievementData(JSONNode _buf) 
     {
-        { if(!_buf["achievement_id"].IsNumber) { throw new SerializationException(); }  AchievementId = _buf["achievement_id"]; }
-        { if(!_buf["achievement_category"].IsString) { throw new SerializationException(); }  AchievementCategory = _buf["achievement_category"]; }
-        { if(!_buf["achievement_Parents"].IsString) { throw new SerializationException(); }  AchievementParents = _buf["achievement_Parents"]; }
-        { if(!_buf["achievement_name"].IsString) { throw new SerializationException(); }  AchievementName = _buf["achievement_name"]; }
-        { if(!_buf["achievement_desc"].IsString) { throw new SerializationException(); }  AchievementDesc = _buf["achievement_desc"]; }
-        { var __json0 = _buf["achievement_targets"]; if(!__json0.IsArray) { throw new SerializationException(); } AchievementTargets = new System.Collections.Generic.List<long>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { long __v0;  { if(!__e0.IsNumber) { throw new SerializationException(); }  __v0 = __e0; }  AchievementTargets.Add(__v0); }   }
-        { var __json0 = _buf["achievement_rewards"]; if(!__json0.IsArray) { throw new SerializationException(); } AchievementRewards = new System.Collections.Generic.List<AchievementStageRewards>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { AchievementStageRewards __v0;  { if(!__e0.IsObject) { throw new SerializationException(); }  __v0 = global::DataTables.AchievementStageRewards.DeserializeAchievementStageRewards(__e0);  }  AchievementRewards.Add(__v0); }   }
+        { if(!_buf["id"].IsNumber) { throw new SerializationException(); }  Id = _buf["id"]; }
+        { if(!_buf["category"].IsString) { throw new SerializationException(); }  Category = _buf["category"]; }
+        { if(!_buf["parents"].IsString) { throw new SerializationException(); }  Parents = _buf["parents"]; }
+        { if(!_buf["name"].IsString) { throw new SerializationException(); }  Name = _buf["name"]; }
+        { if(!_buf["desc"].IsString) { throw new SerializationException(); }  Desc = _buf["desc"]; }
+        { var __json0 = _buf["targets"]; if(!__json0.IsArray) { throw new SerializationException(); } Targets = new System.Collections.Generic.List<long>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { long __v0;  { if(!__e0.IsNumber) { throw new SerializationException(); }  __v0 = __e0; }  Targets.Add(__v0); }   }
+        { var __json0 = _buf["rewards"]; if(!__json0.IsArray) { throw new SerializationException(); } Rewards = new System.Collections.Generic.List<AchievementStageRewards>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { AchievementStageRewards __v0;  { if(!__e0.IsObject) { throw new SerializationException(); }  __v0 = global::DataTables.AchievementStageRewards.DeserializeAchievementStageRewards(__e0);  }  Rewards.Add(__v0); }   }
+        { if(!_buf["strategy_type"].IsNumber) { throw new SerializationException(); }  StrategyType = (AchievementStrategyType)_buf["strategy_type"].AsInt; }
     }
 
     public static AchievementData DeserializeAchievementData(JSONNode _buf)
@@ -34,50 +35,55 @@ public sealed partial class AchievementData : Luban.BeanBase
     /// <summary>
     /// 成就Id
     /// </summary>
-    public readonly int AchievementId;
+    public readonly int Id;
     /// <summary>
     /// 成就大类
     /// </summary>
-    public readonly string AchievementCategory;
+    public readonly string Category;
     /// <summary>
     /// 成就父类
     /// </summary>
-    public readonly string AchievementParents;
+    public readonly string Parents;
     /// <summary>
     /// 成就名称
     /// </summary>
-    public readonly string AchievementName;
+    public readonly string Name;
     /// <summary>
     /// 成就描述
     /// </summary>
-    public readonly string AchievementDesc;
+    public readonly string Desc;
     /// <summary>
     /// 成就目标
     /// </summary>
-    public readonly System.Collections.Generic.List<long> AchievementTargets;
+    public readonly System.Collections.Generic.List<long> Targets;
     /// <summary>
     /// 成就奖励
     /// </summary>
-    public readonly System.Collections.Generic.List<AchievementStageRewards> AchievementRewards;
+    public readonly System.Collections.Generic.List<AchievementStageRewards> Rewards;
+    /// <summary>
+    /// 成就策略类型
+    /// </summary>
+    public readonly AchievementStrategyType StrategyType;
    
     public const int __ID__ = -376145063;
     public override int GetTypeId() => __ID__;
 
     public  void ResolveRef(Tables tables)
     {
-        foreach (var _e in AchievementRewards) { _e?.ResolveRef(tables); }
+        foreach (var _e in Rewards) { _e?.ResolveRef(tables); }
     }
 
     public override string ToString()
     {
         return "{ "
-        + "achievementId:" + AchievementId + ","
-        + "achievementCategory:" + AchievementCategory + ","
-        + "achievementParents:" + AchievementParents + ","
-        + "achievementName:" + AchievementName + ","
-        + "achievementDesc:" + AchievementDesc + ","
-        + "achievementTargets:" + Luban.StringUtil.CollectionToString(AchievementTargets) + ","
-        + "achievementRewards:" + Luban.StringUtil.CollectionToString(AchievementRewards) + ","
+        + "id:" + Id + ","
+        + "category:" + Category + ","
+        + "parents:" + Parents + ","
+        + "name:" + Name + ","
+        + "desc:" + Desc + ","
+        + "targets:" + Luban.StringUtil.CollectionToString(Targets) + ","
+        + "rewards:" + Luban.StringUtil.CollectionToString(Rewards) + ","
+        + "strategyType:" + StrategyType + ","
         + "}";
     }
 }

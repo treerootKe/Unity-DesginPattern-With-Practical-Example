@@ -36,7 +36,6 @@ namespace Behavioral_Patterns.Observer_Strategy_Achievement
             string gameConfDir = "Assets/DataTablesJson"; // gen.bat中outputDataDir指向的目录
             var tables = new DataTables.Tables(jsonFileName => JSON.Parse(File.ReadAllText($"{gameConfDir}/{jsonFileName}.json")));
             var testDemo = tables.AchievementTable.DataMap[1];
-            Debug.Log(testDemo.AchievementRewards[0].AchievementRewards[0]);
         }
     }
 }
