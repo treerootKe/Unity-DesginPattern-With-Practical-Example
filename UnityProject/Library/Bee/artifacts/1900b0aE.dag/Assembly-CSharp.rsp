@@ -509,6 +509,7 @@
 "Assets/Scripts/DataTables/vector3.cs"
 "Assets/Scripts/DataTables/vector4.cs"
 "Assets/Scripts/GlobalData/LubanConfigTable.cs"
+"Assets/Scripts/TestUIScripts.cs"
 "Assets/Scripts/Tools/ObjectPoolMono.cs"
 "Assets/Scripts/Tools/SingletonMono.cs"
 "Assets/Scripts/UI/Achievement/AchievementCategory.cs"

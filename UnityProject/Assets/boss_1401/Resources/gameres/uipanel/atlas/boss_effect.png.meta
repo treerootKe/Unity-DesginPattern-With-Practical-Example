@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 4891daf81b1a464a8103c7e66fd0fc2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: boss_effect_bit_caidan
+  - first:
+      213: 21300002
+    second: boss_effect_putongyu
+  - first:
+      213: 21300004
+    second: boss_effect_xinchunfudai
+  - first:
+      213: 21300006
+    second: boss_effect_bit_carb
+  - first:
+      213: 21300008
+    second: boss_effect_bomb
+  - first:
+      213: 21300010
+    second: boss_effect_shiguangfudai
+  - first:
+      213: 21300012
+    second: boss_effect_bit_xishen
+  - first:
+      213: 21300014
+    second: boss_effect_shanyaofudai
+  - first:
+      213: 21300016
+    second: boss_effect_cake_3nd
+  - first:
+      213: 21300018
+    second: boss_effect_hammer
+  - first:
+      213: 21300020
+    second: boss_effect_xiarifudai
+  - first:
+      213: 21300022
+    second: boss_effect_bit_roulette
+  - first:
+      213: 21300024
+    second: boss_effect_bit_shouxing
+  - first:
+      213: 21300026
+    second: boss_effect_jiulianbaodeng
+  - first:
+      213: 21300028
+    second: boss_effect_book
+  - first:
+      213: 21300030
+    second: boss_effect_cake_2nd
+  - first:
+      213: 21300032
+    second: boss_effect_ruyidai
+  - first:
+      213: 21300034
+    second: boss_effect_huangjinyu
+  - first:
+      213: 21300036
+    second: boss_effect_huanlefudai
+  - first:
+      213: 21300038
+    second: boss_effect_cake
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_effect_ruyidai
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 170
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 85}
+        - {x: 85, y: 85}
+        - {x: -85, y: -85}
+      - - {x: -85, y: -85}
+        - {x: 85, y: 85}
+        - {x: 85, y: -85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_bit_xishen
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 348
+        width: 262
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131, y: 142}
+        - {x: 131, y: 142}
+        - {x: -131, y: -142}
+      - - {x: -131, y: -142}
+        - {x: 131, y: 142}
+        - {x: 131, y: -142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_shiguangfudai
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 176
+        width: 170
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 85}
+        - {x: 85, y: 85}
+        - {x: -85, y: -85}
+      - - {x: -85, y: -85}
+        - {x: 85, y: 85}
+        - {x: 85, y: -85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_cake_3nd
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 173
+        width: 170
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 88}
+        - {x: 85, y: 88}
+        - {x: -85, y: -88}
+      - - {x: -85, y: -88}
+        - {x: 85, y: 88}
+        - {x: 85, y: -88}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_xinchunfudai
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 176
+        width: 170
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 85}
+        - {x: 85, y: 85}
+        - {x: -85, y: -85}
+      - - {x: -85, y: -85}
+        - {x: 85, y: 85}
+        - {x: 85, y: -85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_jiulianbaodeng
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 260
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130, y: 118}
+        - {x: 130, y: 118}
+        - {x: -130, y: -118}
+      - - {x: -130, y: -118}
+        - {x: 130, y: 118}
+        - {x: 130, y: -118}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_cake_2nd
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 351
+        width: 170
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 88}
+        - {x: 85, y: 88}
+        - {x: -85, y: -88}
+      - - {x: -85, y: -88}
+        - {x: 85, y: 88}
+        - {x: 85, y: -88}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_xiarifudai
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4
+        width: 170
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 85}
+        - {x: 85, y: 85}
+        - {x: -85, y: -85}
+      - - {x: -85, y: -85}
+        - {x: 85, y: 85}
+        - {x: 85, y: -85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_bit_caidan
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 262
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131, y: 142}
+        - {x: 131, y: 142}
+        - {x: -131, y: -142}
+      - - {x: -131, y: -142}
+        - {x: 131, y: 142}
+        - {x: 131, y: -142}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_book
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 198
+        width: 214
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107, y: 70}
+        - {x: 107, y: 70}
+        - {x: -107, y: -70}
+      - - {x: -107, y: -70}
+        - {x: 107, y: 70}
+        - {x: 107, y: -70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_bit_carb
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 794
+        width: 188
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 107}
+        - {x: 94, y: 107}
+        - {x: -94, y: -107}
+      - - {x: -94, y: -107}
+        - {x: 94, y: 107}
+        - {x: 94, y: -107}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_shanyaofudai
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 170
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 85}
+        - {x: 85, y: 85}
+        - {x: -85, y: -85}
+      - - {x: -85, y: -85}
+        - {x: 85, y: 85}
+        - {x: 85, y: -85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_hammer
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 358
+        width: 152
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 109}
+        - {x: 76, y: 109}
+        - {x: -76, y: -109}
+      - - {x: -76, y: -109}
+        - {x: 76, y: 109}
+        - {x: 76, y: -109}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_huangjinyu
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 788
+        width: 368
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -184, y: 110}
+        - {x: 184, y: 110}
+        - {x: -184, y: -110}
+      - - {x: -184, y: -110}
+        - {x: 184, y: 110}
+        - {x: 184, y: -110}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_bit_roulette
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 578
+        width: 188
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 107}
+        - {x: 94, y: 107}
+        - {x: -94, y: -107}
+      - - {x: -94, y: -107}
+        - {x: 94, y: 107}
+        - {x: 94, y: -107}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_bomb
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 340
+        width: 168
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 118}
+        - {x: 84, y: 118}
+        - {x: -84, y: -118}
+      - - {x: -84, y: -118}
+        - {x: 84, y: 118}
+        - {x: 84, y: -118}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_cake
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 529
+        width: 170
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 88}
+        - {x: 85, y: 88}
+        - {x: -85, y: -88}
+      - - {x: -85, y: -88}
+        - {x: 85, y: 88}
+        - {x: 85, y: -88}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_putongyu
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 634
+        width: 360
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: 76}
+        - {x: 180, y: 76}
+        - {x: -180, y: -76}
+      - - {x: -180, y: -76}
+        - {x: 180, y: 76}
+        - {x: 180, y: -76}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_bit_shouxing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 707
+        width: 446
+        height: 301
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223, y: 150.5}
+        - {x: 223, y: 150.5}
+        - {x: -223, y: -150.5}
+      - - {x: -223, y: -150.5}
+        - {x: 223, y: 150.5}
+        - {x: 223, y: -150.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_effect_huanlefudai
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 170
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 85}
+        - {x: 85, y: 85}
+        - {x: -85, y: -85}
+      - - {x: -85, y: -85}
+        - {x: 85, y: 85}
+        - {x: 85, y: -85}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss_effect_bit_caidan: 21300000
+      boss_effect_bit_carb: 21300006
+      boss_effect_bit_roulette: 21300022
+      boss_effect_bit_shouxing: 21300024
+      boss_effect_bit_xishen: 21300012
+      boss_effect_bomb: 21300008
+      boss_effect_book: 21300028
+      boss_effect_cake: 21300038
+      boss_effect_cake_2nd: 21300030
+      boss_effect_cake_3nd: 21300016
+      boss_effect_hammer: 21300018
+      boss_effect_huangjinyu: 21300034
+      boss_effect_huanlefudai: 21300036
+      boss_effect_jiulianbaodeng: 21300026
+      boss_effect_putongyu: 21300002
+      boss_effect_ruyidai: 21300032
+      boss_effect_shanyaofudai: 21300014
+      boss_effect_shiguangfudai: 21300010
+      boss_effect_xiarifudai: 21300020
+      boss_effect_xinchunfudai: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: assets_gameres_uipanel_atlas_boss_effect.bundle
+  assetBundleVariant: 

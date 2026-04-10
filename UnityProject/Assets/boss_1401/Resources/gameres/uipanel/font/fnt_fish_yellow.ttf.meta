@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4eb4985981034e2884a3a13cf5e51d2a
+timeCreated: 1758936794
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 0
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "fnt_fish_yellow"
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: assets_gameres_uipanel_font.bundle
+  assetBundleVariant: 

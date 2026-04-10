@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2e2b27dd7c4b45849255972113bc34ee
+timeCreated: 1758936794
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 0
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "fnt_btn_blue"
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: assets_gameres_uipanel_font.bundle
+  assetBundleVariant: 

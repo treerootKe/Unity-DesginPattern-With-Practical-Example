@@ -1,0 +1,3750 @@
+fileFormatVersion: 2
+guid: 8bef8b6024404802b1414a3b58afc947
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: fish_frame_bg_yellow
+  - first:
+      213: 21300002
+    second: fish_txt_jinbi
+  - first:
+      213: 21300004
+    second: fish_btn_add
+  - first:
+      213: 21300006
+    second: fish_ex_bg_bar_2
+  - first:
+      213: 21300008
+    second: fish_txt_locking
+  - first:
+      213: 21300010
+    second: fish_slide
+  - first:
+      213: 21300012
+    second: fish_btn_tujian
+  - first:
+      213: 21300014
+    second: fish_frame_gunbase
+  - first:
+      213: 21300016
+    second: fish_img_rulaishenzhang
+  - first:
+      213: 21300018
+    second: fish_icon_update
+  - first:
+      213: 21300020
+    second: fish_txt_kuangbao_4
+  - first:
+      213: 21300022
+    second: fish_frame_huanfang
+  - first:
+      213: 21300024
+    second: fish_btn_bag
+  - first:
+      213: 21300026
+    second: fish_text_launch
+  - first:
+      213: 21300028
+    second: fish_bomb_crab
+  - first:
+      213: 21300030
+    second: fish_qipao_chunjie
+  - first:
+      213: 21300032
+    second: fish_btn_huanfang_blue
+  - first:
+      213: 21300034
+    second: fish_bomb_rulai
+  - first:
+      213: 21300036
+    second: fish_btn_likai
+  - first:
+      213: 21300038
+    second: fish_txt_huode_1
+  - first:
+      213: 21300040
+    second: fish_txt_unlock
+  - first:
+      213: 21300042
+    second: fish_icon_gift_txt_tomorrow
+  - first:
+      213: 21300044
+    second: fish_qipao_wuyi
+  - first:
+      213: 21300046
+    second: fish_frame_lottery
+  - first:
+      213: 21300048
+    second: fish_bit_xiaochou
+  - first:
+      213: 21300050
+    second: fish_chat_tips1
+  - first:
+      213: 21300052
+    second: fish_img_bomb
+  - first:
+      213: 21300054
+    second: fish_icon_shop
+  - first:
+      213: 21300056
+    second: fish_text_fire
+  - first:
+      213: 21300058
+    second: fish_bit_fuxing
+  - first:
+      213: 21300060
+    second: fish_btn_huanfang
+  - first:
+      213: 21300062
+    second: fish_qipao_shengxia
+  - first:
+      213: 21300064
+    second: fish_txt_immune
+  - first:
+      213: 21300066
+    second: fish_frame_slider
+  - first:
+      213: 21300068
+    second: fish_bit_yuelao
+  - first:
+      213: 21300070
+    second: fish_btn_huanfang_back
+  - first:
+      213: 21300072
+    second: fish_ex_bg
+  - first:
+      213: 21300074
+    second: fish_qipao_orange
+  - first:
+      213: 21300076
+    second: fish_btn_shezhi
+  - first:
+      213: 21300078
+    second: fish_qipao_yellow
+  - first:
+      213: 21300080
+    second: fish_img_arrow
+  - first:
+      213: 21300082
+    second: fish_bit_crab
+  - first:
+      213: 21300084
+    second: fish_qipao_shengxia_yellow
+  - first:
+      213: 21300086
+    second: fish_txt_skill
+  - first:
+      213: 21300088
+    second: fish_img_join
+  - first:
+      213: 21300090
+    second: fish_txt_huode
+  - first:
+      213: 21300092
+    second: fish_hammer
+  - first:
+      213: 21300094
+    second: fish_icon_activity
+  - first:
+      213: 21300096
+    second: fish_txt_kuangbao_3
+  - first:
+      213: 21300098
+    second: fish_ex_bg_point_1
+  - first:
+      213: 21300100
+    second: fish_icon_gift_txt_receive
+  - first:
+      213: 21300102
+    second: fish_img_bankruptcy
+  - first:
+      213: 21300104
+    second: fish_bit_jinchan
+  - first:
+      213: 21300106
+    second: fish_btn_beibao
+  - first:
+      213: 21300108
+    second: fish_icon_lottery
+  - first:
+      213: 21300110
+    second: fish_img_gift
+  - first:
+      213: 21300112
+    second: fish_bit_sanzhounian
+  - first:
+      213: 21300114
+    second: fish_mask_number
+  - first:
+      213: 21300116
+    second: fish_paota_limited_up
+  - first:
+      213: 21300118
+    second: fish_lunpanxie
+  - first:
+      213: 21300120
+    second: fish_btn_minus
+  - first:
+      213: 21300122
+    second: fish_txt_rage
+  - first:
+      213: 21300124
+    second: fish_bit_liandanlu
+  - first:
+      213: 21300126
+    second: fish_btn_change
+  - first:
+      213: 21300128
+    second: fish_icon_achievement
+  - first:
+      213: 21300130
+    second: fish_btn_paotai
+  - first:
+      213: 21300132
+    second: fish_txt_kuangbao_2
+  - first:
+      213: 21300134
+    second: fish_txt_kuangbao_1
+  - first:
+      213: 21300136
+    second: fish_bit_christmas
+  - first:
+      213: 21300138
+    second: fish_img_hammer
+  - first:
+      213: 21300140
+    second: fish_icon_gift
+  - first:
+      213: 21300142
+    second: fish_img_hand
+  - first:
+      213: 21300144
+    second: fish_qipao_chunjie_yellow
+  - first:
+      213: 21300146
+    second: fish_frame_icon
+  - first:
+      213: 21300148
+    second: fish_wugongmiji
+  - first:
+      213: 21300150
+    second: fish_btn_pull
+  - first:
+      213: 21300152
+    second: fish_btn_book
+  - first:
+      213: 21300154
+    second: fish_huanfang_xian
+  - first:
+      213: 21300156
+    second: fish_text_location
+  - first:
+      213: 21300158
+    second: fish_qipao_red
+  - first:
+      213: 21300160
+    second: fish_frame_multiple_3
+  - first:
+      213: 21300162
+    second: fish_btn_qushuban
+  - first:
+      213: 21300164
+    second: fish_countdown
+  - first:
+      213: 21300166
+    second: fish_txt_jinbi_1
+  - first:
+      213: 21300168
+    second: fish_slide_bg
+  - first:
+      213: 21300170
+    second: fish_qipao_wuyi_green
+  - first:
+      213: 21300172
+    second: fish_btn_gun
+  - first:
+      213: 21300174
+    second: fish_frame_multiple
+  - first:
+      213: 21300176
+    second: fish_effect_light
+  - first:
+      213: 21300178
+    second: fish_ex_bg_point_2
+  - first:
+      213: 21300180
+    second: fish_text_click
+  - first:
+      213: 21300182
+    second: fish_bit_aries
+  - first:
+      213: 21300184
+    second: fish_txt_bullet
+  - first:
+      213: 21300186
+    second: fish_btn_expression
+  - first:
+      213: 21300188
+    second: fish_frame_multiple_2
+  - first:
+      213: 21300190
+    second: fish_ex_bg_bar_1
+  - first:
+      213: 21300192
+    second: fish_icon_task
+  - first:
+      213: 21300194
+    second: fish_frame_multiple_1
+  - first:
+      213: 21300196
+    second: fish_chat_frame
+  - first:
+      213: 21300198
+    second: fish_process
+  - first:
+      213: 21300200
+    second: fish_frame_huanpao
+  - first:
+      213: 21300202
+    second: fish_icon_forg
+  - first:
+      213: 21300204
+    second: fish_img_gun
+  - first:
+      213: 21300206
+    second: fish_btn_set
+  - first:
+      213: 21300208
+    second: fish_bit_luxing
+  - first:
+      213: 21300210
+    second: fish_btn_left
+  - first:
+      213: 21300212
+    second: fish_paota_limited_up_1
+  - first:
+      213: 21300214
+    second: fish_btn_chat
+  - first:
+      213: 21300216
+    second: fish_chat_tips
+  - first:
+      213: 21300218
+    second: fish_bit_shouxing
+  - first:
+      213: 21300220
+    second: fish_process_bg
+  - first:
+      213: 21300222
+    second: fish_bit_worldcup
+  - first:
+      213: 21300224
+    second: fish_qipao_wuyi_yellow
+  - first:
+      213: 21300226
+    second: fish_frame_bg_red
+  - first:
+      213: 21300228
+    second: fish_seal
+  - first:
+      213: 21300230
+    second: fish_frame_information
+  - first:
+      213: 21300232
+    second: fish_icon_pearl
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 48
+  maxTextureSize: 2248
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 33, y: 20, z: 32, w: 18}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2248
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2248
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2248
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fish_bit_christmas
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1672
+        width: 357
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178.5, y: 32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: -178.5, y: -32.5}
+      - - {x: -178.5, y: -32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: 178.5, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_huode_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 137
+        width: 61
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: -30.5, y: -17.5}
+      - - {x: -30.5, y: -17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: 30.5, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_rage
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 159
+        width: 153
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 24}
+        - {x: 76.5, y: 24}
+        - {x: -76.5, y: -24}
+      - - {x: -76.5, y: -24}
+        - {x: 76.5, y: 24}
+        - {x: 76.5, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_gun
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 7
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: -27.5, y: -29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_wuyi_green
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_ex_bg_point_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1841
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: 7, y: 7}
+        - {x: -7, y: -7}
+      - - {x: -7, y: -7}
+        - {x: 7, y: 7}
+        - {x: 7, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_minus
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 504
+        width: 77
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 42}
+        - {x: 38.5, y: 42}
+        - {x: -38.5, y: -42}
+      - - {x: -38.5, y: -42}
+        - {x: 38.5, y: 42}
+        - {x: 38.5, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_fuxing
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1124
+        width: 357
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178.5, y: 32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: -178.5, y: -32.5}
+      - - {x: -178.5, y: -32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: 178.5, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_paota_limited_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 352
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -176, y: 172}
+        - {x: 176, y: 172}
+        - {x: -176, y: -172}
+      - - {x: -176, y: -172}
+        - {x: 176, y: 172}
+        - {x: 176, y: -172}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_wuyi
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_slider
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2043
+        width: 48
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 17, z: 11, w: 13}
+      outline:
+      - - {x: -24, y: 67}
+        - {x: 24, y: 67}
+        - {x: -24, y: -67}
+      - - {x: -24, y: -67}
+        - {x: 24, y: 67}
+        - {x: 24, y: -67}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_yellow
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1837
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_icon
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 603
+        width: 168
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 84}
+        - {x: 84, y: 84}
+        - {x: -84, y: -84}
+      - - {x: -84, y: -84}
+        - {x: 84, y: 84}
+        - {x: 84, y: -84}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_tujian
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1392
+        width: 67
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 40}
+        - {x: 33.5, y: 40}
+        - {x: -33.5, y: -40}
+      - - {x: -33.5, y: -40}
+        - {x: 33.5, y: 40}
+        - {x: 33.5, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_huanfang_blue
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1191
+        width: 273
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.5, y: 53}
+        - {x: 136.5, y: 53}
+        - {x: -136.5, y: -53}
+      - - {x: -136.5, y: -53}
+        - {x: 136.5, y: 53}
+        - {x: 136.5, y: -53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_ex_bg
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1857
+        width: 230
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: 50.5}
+        - {x: 115, y: 50.5}
+        - {x: -115, y: -50.5}
+      - - {x: -115, y: -50.5}
+        - {x: 115, y: 50.5}
+        - {x: 115, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_liandanlu
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 990
+        width: 357
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178.5, y: 32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: -178.5, y: -32.5}
+      - - {x: -178.5, y: -32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: 178.5, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_update
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1228
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_shouxing
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 792
+        width: 356
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178, y: 32}
+        - {x: 178, y: 32}
+        - {x: -178, y: -32}
+      - - {x: -178, y: -32}
+        - {x: 178, y: 32}
+        - {x: 178, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_crab
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1199
+        width: 234
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117, y: 45}
+        - {x: 117, y: 45}
+        - {x: -117, y: -45}
+      - - {x: -117, y: -45}
+        - {x: 117, y: 45}
+        - {x: 117, y: -45}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_gun
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1064
+        width: 217
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 66.5}
+        - {x: 108.5, y: 66.5}
+        - {x: -108.5, y: -66.5}
+      - - {x: -108.5, y: -66.5}
+        - {x: 108.5, y: 66.5}
+        - {x: 108.5, y: -66.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_set
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 45
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: -27.5, y: -29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_mask_number
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 752
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 6, z: 6, w: 7}
+      outline:
+      - - {x: -12, y: 9.5}
+        - {x: 12, y: 9.5}
+        - {x: -12, y: -9.5}
+      - - {x: -12, y: -9.5}
+        - {x: 12, y: 9.5}
+        - {x: 12, y: -9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_bomb
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 773
+        width: 206
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 70.5}
+        - {x: 103, y: 70.5}
+        - {x: -103, y: -70.5}
+      - - {x: -103, y: -70.5}
+        - {x: 103, y: 70.5}
+        - {x: 103, y: -70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_task
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 264
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_multiple_1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 120
+        width: 159
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: 18.5}
+        - {x: 79.5, y: 18.5}
+        - {x: -79.5, y: -18.5}
+      - - {x: -79.5, y: -18.5}
+        - {x: 79.5, y: 18.5}
+        - {x: 79.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_hammer
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 635
+        width: 253
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.5, y: 44.5}
+        - {x: 126.5, y: 44.5}
+        - {x: -126.5, y: -44.5}
+      - - {x: -126.5, y: -44.5}
+        - {x: 126.5, y: 44.5}
+        - {x: 126.5, y: -44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_shengxia
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_process_bg
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 22
+        width: 132
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 9}
+        - {x: 66, y: 9}
+        - {x: -66, y: -9}
+      - - {x: -66, y: -9}
+        - {x: 66, y: 9}
+        - {x: 66, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_ex_bg_bar_2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 174
+        width: 74
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 37}
+        - {x: 37, y: 37}
+        - {x: -37, y: -37}
+      - - {x: -37, y: -37}
+        - {x: 37, y: 37}
+        - {x: 37, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_jinbi_1
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 8
+        width: 61
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: -30.5, y: -17.5}
+      - - {x: -30.5, y: -17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: 30.5, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_skill
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 117
+        width: 154
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 24}
+        - {x: 77, y: 24}
+        - {x: -77, y: -24}
+      - - {x: -77, y: -24}
+        - {x: 77, y: 24}
+        - {x: 77, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_multiple_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 42
+        width: 159
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: 18.5}
+        - {x: 79.5, y: 18.5}
+        - {x: -79.5, y: -18.5}
+      - - {x: -79.5, y: -18.5}
+        - {x: 79.5, y: 18.5}
+        - {x: 79.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_bg_red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 410
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 100}
+        - {x: 205, y: 100}
+        - {x: -205, y: -100}
+      - - {x: -205, y: -100}
+        - {x: 205, y: 100}
+        - {x: 205, y: -100}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_activity
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1308
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_text_location
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1548
+        width: 320
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160, y: 45}
+        - {x: 160, y: 45}
+        - {x: -160, y: -45}
+      - - {x: -160, y: -45}
+        - {x: 160, y: 45}
+        - {x: 160, y: -45}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_chat_frame
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 900
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 7, z: 9, w: 7}
+      outline:
+      - - {x: -21, y: 21}
+        - {x: 21, y: 21}
+        - {x: -21, y: -21}
+      - - {x: -21, y: -21}
+        - {x: 21, y: 21}
+        - {x: 21, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bomb_rulai
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 570
+        width: 255
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.5, y: 31.5}
+        - {x: 127.5, y: 31.5}
+        - {x: -127.5, y: -31.5}
+      - - {x: -127.5, y: -31.5}
+        - {x: 127.5, y: 31.5}
+        - {x: 127.5, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_slide_bg
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 150
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 7.5}
+        - {x: 75, y: 7.5}
+        - {x: -75, y: -7.5}
+      - - {x: -75, y: -7.5}
+        - {x: 75, y: 7.5}
+        - {x: 75, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_multiple_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 81
+        width: 159
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: 18.5}
+        - {x: 79.5, y: 18.5}
+        - {x: -79.5, y: -18.5}
+      - - {x: -79.5, y: -18.5}
+        - {x: 79.5, y: 18.5}
+        - {x: 79.5, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_countdown
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 451
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 75}
+        - {x: 75, y: 75}
+        - {x: -75, y: -75}
+      - - {x: -75, y: -75}
+        - {x: 75, y: 75}
+        - {x: 75, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_pearl
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 264
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_gunbase
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1291
+        width: 233
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: 81}
+        - {x: 116.5, y: 81}
+        - {x: -116.5, y: -81}
+      - - {x: -116.5, y: -81}
+        - {x: 116.5, y: 81}
+        - {x: 116.5, y: -81}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_lottery
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1388
+        width: 283
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141.5, y: 42}
+        - {x: 141.5, y: 42}
+        - {x: -141.5, y: -42}
+      - - {x: -141.5, y: -42}
+        - {x: 141.5, y: 42}
+        - {x: 141.5, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_jinchan
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1057
+        width: 357
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178.5, y: 32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: -178.5, y: -32.5}
+      - - {x: -178.5, y: -32.5}
+        - {x: 178.5, y: 32.5}
+        - {x: 178.5, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_sanzhounian
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 858
+        width: 356
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178, y: 32}
+        - {x: 178, y: 32}
+        - {x: -178, y: -32}
+      - - {x: -178, y: -32}
+        - {x: 178, y: 32}
+        - {x: 178, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_locking
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 371
+        width: 154
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 24}
+        - {x: 77, y: 24}
+        - {x: -77, y: -24}
+      - - {x: -77, y: -24}
+        - {x: 77, y: 24}
+        - {x: 77, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_huanfang_back
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 217
+        width: 89
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 68}
+        - {x: 44.5, y: 68}
+        - {x: -44.5, y: -68}
+      - - {x: -44.5, y: -68}
+        - {x: 44.5, y: 68}
+        - {x: 44.5, y: -68}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_huanfang_xian
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2093
+        width: 6
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 42}
+        - {x: 3, y: 42}
+        - {x: -3, y: -42}
+      - - {x: -3, y: -42}
+        - {x: 3, y: 42}
+        - {x: 3, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_worldcup
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2179
+        width: 373
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186.5, y: 34.5}
+        - {x: 186.5, y: 34.5}
+        - {x: -186.5, y: -34.5}
+      - - {x: -186.5, y: -34.5}
+        - {x: 186.5, y: 34.5}
+        - {x: 186.5, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_likai
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 107
+        width: 62
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 29.5}
+        - {x: 31, y: 29.5}
+        - {x: -31, y: -29.5}
+      - - {x: -31, y: -29.5}
+        - {x: 31, y: 29.5}
+        - {x: 31, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_book
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 5
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: -27.5, y: -29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_huode
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1191
+        width: 61
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: -30.5, y: -17.5}
+      - - {x: -30.5, y: -17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: 30.5, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_lottery
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 344
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_gift_txt_receive
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 238
+        width: 78
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 12}
+        - {x: 39, y: 12}
+        - {x: -39, y: -12}
+      - - {x: -39, y: -12}
+        - {x: 39, y: 12}
+        - {x: 39, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bomb_crab
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1299
+        width: 280
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140, y: 43.5}
+        - {x: 140, y: 43.5}
+        - {x: -140, y: -43.5}
+      - - {x: -140, y: -43.5}
+        - {x: 140, y: 43.5}
+        - {x: 140, y: -43.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_ex_bg_point_2
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 590
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: 7, y: 7}
+        - {x: -7, y: -7}
+      - - {x: -7, y: -7}
+        - {x: 7, y: 7}
+        - {x: 7, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_kuangbao_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 67
+        width: 138
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 24}
+        - {x: 69, y: 24}
+        - {x: -69, y: -24}
+      - - {x: -69, y: -24}
+        - {x: 69, y: 24}
+        - {x: 69, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 707
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_chunjie
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_beibao
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 421
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 33.5}
+        - {x: 33, y: 33.5}
+        - {x: -33, y: -33.5}
+      - - {x: -33, y: -33.5}
+        - {x: 33, y: 33.5}
+        - {x: 33, y: -33.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_add
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 504
+        width: 77
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 42}
+        - {x: 38.5, y: 42}
+        - {x: -38.5, y: -42}
+      - - {x: -38.5, y: -42}
+        - {x: 38.5, y: 42}
+        - {x: 38.5, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_jinbi
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 70
+        width: 61
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: -30.5, y: -17.5}
+      - - {x: -30.5, y: -17.5}
+        - {x: 30.5, y: 17.5}
+        - {x: 30.5, y: -17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_shengxia_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_forg
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 424
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_hammer
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 916
+        width: 212
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 73}
+        - {x: 106, y: 73}
+        - {x: -106, y: -73}
+      - - {x: -106, y: -73}
+        - {x: 106, y: 73}
+        - {x: 106, y: -73}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_text_click
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 405
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -202.5, y: 70}
+        - {x: 202.5, y: 70}
+        - {x: -202.5, y: -70}
+      - - {x: -202.5, y: -70}
+        - {x: 202.5, y: 70}
+        - {x: 202.5, y: -70}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_hand
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 250
+        width: 81
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 59.5}
+        - {x: 40.5, y: 59.5}
+        - {x: -40.5, y: -59.5}
+      - - {x: -40.5, y: -59.5}
+        - {x: 40.5, y: 59.5}
+        - {x: 40.5, y: -59.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_lunpanxie
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 487
+        width: 224
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112, y: 40.5}
+        - {x: 112, y: 40.5}
+        - {x: -112, y: -40.5}
+      - - {x: -112, y: -40.5}
+        - {x: 112, y: 40.5}
+        - {x: 112, y: -40.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_unlock
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 421
+        width: 198
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 16}
+        - {x: 99, y: 16}
+        - {x: -99, y: -16}
+      - - {x: -99, y: -16}
+        - {x: 99, y: 16}
+        - {x: 99, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_rulaishenzhang
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1455
+        width: 245
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 76.5}
+        - {x: 122.5, y: 76.5}
+        - {x: -122.5, y: -76.5}
+      - - {x: -122.5, y: -76.5}
+        - {x: 122.5, y: 76.5}
+        - {x: 122.5, y: -76.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_chat_tips1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1596
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 6}
+        - {x: 8.5, y: 6}
+        - {x: -8.5, y: -6}
+      - - {x: -8.5, y: -6}
+        - {x: 8.5, y: 6}
+        - {x: 8.5, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_chat
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 68
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: -27.5, y: -29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_kuangbao_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 17
+        width: 138
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 24}
+        - {x: 69, y: 24}
+        - {x: -69, y: -24}
+      - - {x: -69, y: -24}
+        - {x: 69, y: 24}
+        - {x: 69, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_bag
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 665
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: -27.5, y: -29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_xiaochou
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1474
+        width: 340
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 36}
+        - {x: 170, y: 36}
+        - {x: -170, y: -36}
+      - - {x: -170, y: -36}
+        - {x: 170, y: 36}
+        - {x: 170, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_bg_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 410
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 100}
+        - {x: 205, y: 100}
+        - {x: -205, y: -100}
+      - - {x: -205, y: -100}
+        - {x: 205, y: 100}
+        - {x: 205, y: -100}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_join
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1696
+        width: 244
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122, y: 42}
+        - {x: 122, y: 42}
+        - {x: -122, y: -42}
+      - - {x: -122, y: -42}
+        - {x: 122, y: 42}
+        - {x: 122, y: -42}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_wuyi_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_pull
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 217
+        width: 89
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 68}
+        - {x: 44.5, y: 68}
+        - {x: -44.5, y: -68}
+      - - {x: -44.5, y: -68}
+        - {x: 44.5, y: 68}
+        - {x: 44.5, y: -68}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_wugongmiji
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1782
+        width: 246
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 36.5}
+        - {x: 123, y: 36.5}
+        - {x: -123, y: -36.5}
+      - - {x: -123, y: -36.5}
+        - {x: 123, y: 36.5}
+        - {x: 123, y: -36.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_kuangbao_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 209
+        width: 138
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 24}
+        - {x: 69, y: 24}
+        - {x: -69, y: -24}
+      - - {x: -69, y: -24}
+        - {x: 69, y: 24}
+        - {x: 69, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_paotai
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 168
+        width: 72
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 34}
+        - {x: 36, y: 34}
+        - {x: -36, y: -34}
+      - - {x: -36, y: -34}
+        - {x: 36, y: 34}
+        - {x: 36, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_gift
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 944
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22}
+        - {x: 22, y: 22}
+        - {x: -22, y: -22}
+      - - {x: -22, y: -22}
+        - {x: 22, y: 22}
+        - {x: 22, y: -22}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_orange
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1739
+        width: 410
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 48}
+        - {x: 205, y: 48}
+        - {x: -205, y: -48}
+      - - {x: -205, y: -48}
+        - {x: 205, y: 48}
+        - {x: 205, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_seal
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 132
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 55}
+        - {x: 66, y: 55}
+        - {x: -66, y: -55}
+      - - {x: -66, y: -55}
+        - {x: 66, y: 55}
+        - {x: 66, y: -55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_qipao_chunjie_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 394
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -197, y: 58.5}
+        - {x: 197, y: 58.5}
+        - {x: -197, y: -58.5}
+      - - {x: -197, y: -58.5}
+        - {x: 197, y: 58.5}
+        - {x: 197, y: -58.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_information
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2034
+        width: 312
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 10, z: 50, w: 10}
+      outline:
+      - - {x: -156, y: 71.5}
+        - {x: 156, y: 71.5}
+        - {x: -156, y: -71.5}
+      - - {x: -156, y: -71.5}
+        - {x: 156, y: 71.5}
+        - {x: 156, y: -71.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_gift
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 424
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_shop
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 344
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_ex_bg_bar_1
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 106
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 29}
+        - {x: 29, y: 29}
+        - {x: -29, y: -29}
+      - - {x: -29, y: -29}
+        - {x: 29, y: 29}
+        - {x: 29, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_luxing
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 924
+        width: 356
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178, y: 32}
+        - {x: 178, y: 32}
+        - {x: -178, y: -32}
+      - - {x: -178, y: -32}
+        - {x: 178, y: 32}
+        - {x: 178, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_huanpao
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: -20, y: -20}
+      - - {x: -20, y: -20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_bankruptcy
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 656
+        width: 121
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 34}
+        - {x: 60.5, y: 34}
+        - {x: -60.5, y: -34}
+      - - {x: -60.5, y: -34}
+        - {x: 60.5, y: 34}
+        - {x: 60.5, y: -34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_process
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 590
+        width: 126
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 5, w: 0}
+      outline:
+      - - {x: -63, y: 7}
+        - {x: 63, y: 7}
+        - {x: -63, y: -7}
+      - - {x: -63, y: -7}
+        - {x: 63, y: 7}
+        - {x: 63, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_slide
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1646
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: -12, y: -12}
+      - - {x: -12, y: -12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_multiple
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1610
+        width: 326
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163, y: 30}
+        - {x: 163, y: 30}
+        - {x: -163, y: -30}
+      - - {x: -163, y: -30}
+        - {x: 163, y: 30}
+        - {x: 163, y: -30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_text_fire
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 455
+        width: 228
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 15}
+        - {x: 114, y: 15}
+        - {x: -114, y: -15}
+      - - {x: -114, y: -15}
+        - {x: 114, y: 15}
+        - {x: 114, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_shezhi
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 190
+        width: 57
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 29}
+        - {x: 28.5, y: 29}
+        - {x: -28.5, y: -29}
+      - - {x: -28.5, y: -29}
+        - {x: 28.5, y: 29}
+        - {x: 28.5, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_frame_huanfang
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1956
+        width: 637
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 40, z: 40, w: 20}
+      outline:
+      - - {x: -318.5, y: 146}
+        - {x: 318.5, y: 146}
+        - {x: -318.5, y: -146}
+      - - {x: -318.5, y: -146}
+        - {x: 318.5, y: 146}
+        - {x: 318.5, y: -146}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_bullet
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 167
+        width: 154
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 24}
+        - {x: 77, y: 24}
+        - {x: -77, y: -24}
+      - - {x: -77, y: -24}
+        - {x: 77, y: 24}
+        - {x: 77, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_effect_light
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 278
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139, y: 55}
+        - {x: 139, y: 55}
+        - {x: -139, y: -55}
+      - - {x: -139, y: -55}
+        - {x: 139, y: 55}
+        - {x: 139, y: -55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_kuangbao_4
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 606
+        width: 138
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 24}
+        - {x: 69, y: 24}
+        - {x: -69, y: -24}
+      - - {x: -69, y: -24}
+        - {x: 69, y: 24}
+        - {x: 69, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_paota_limited_up_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1698
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 19.5}
+        - {x: 22.5, y: 19.5}
+        - {x: -22.5, y: -19.5}
+      - - {x: -22.5, y: -19.5}
+        - {x: 22.5, y: 19.5}
+        - {x: 22.5, y: -19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_text_launch
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1640
+        width: 295
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -147.5, y: 27}
+        - {x: 147.5, y: 27}
+        - {x: -147.5, y: -27}
+      - - {x: -147.5, y: -27}
+        - {x: 147.5, y: 27}
+        - {x: 147.5, y: -27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_img_arrow
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 274
+        width: 78
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 47.5}
+        - {x: 39, y: 47.5}
+        - {x: -39, y: -47.5}
+      - - {x: -39, y: -47.5}
+        - {x: 39, y: 47.5}
+        - {x: 39, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_qushuban
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 66
+        width: 53
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 34.5}
+        - {x: 26.5, y: 34.5}
+        - {x: -26.5, y: -34.5}
+      - - {x: -26.5, y: -34.5}
+        - {x: 26.5, y: 34.5}
+        - {x: 26.5, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_txt_immune
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 371
+        width: 82
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 24}
+        - {x: 41, y: 24}
+        - {x: -41, y: -24}
+      - - {x: -41, y: -24}
+        - {x: 41, y: 24}
+        - {x: 41, y: -24}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_aries
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1960
+        width: 340
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -170, y: 36}
+        - {x: 170, y: 36}
+        - {x: -170, y: -36}
+      - - {x: -170, y: -36}
+        - {x: 170, y: 36}
+        - {x: 170, y: -36}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_left
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 9
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: -27.5, y: -29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_achievement
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 490
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: -39, y: -39}
+      - - {x: -39, y: -39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_change
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 129
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: -27.5, y: -29.5}
+      - - {x: -27.5, y: -29.5}
+        - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: -29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_expression
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 259
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 55}
+        - {x: 55, y: 55}
+        - {x: -55, y: -55}
+      - - {x: -55, y: -55}
+        - {x: 55, y: 55}
+        - {x: 55, y: -55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_bit_yuelao
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 726
+        width: 356
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178, y: 32}
+        - {x: 178, y: 32}
+        - {x: -178, y: -32}
+      - - {x: -178, y: -32}
+        - {x: 178, y: 32}
+        - {x: 178, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_icon_gift_txt_tomorrow
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 238
+        width: 78
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 12}
+        - {x: 39, y: 12}
+        - {x: -39, y: -12}
+      - - {x: -39, y: -12}
+        - {x: 39, y: 12}
+        - {x: 39, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_btn_huanfang
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 166
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 35}
+        - {x: 32, y: 35}
+        - {x: -32, y: -35}
+      - - {x: -32, y: -35}
+        - {x: 32, y: 35}
+        - {x: 32, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_chat_tips
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 355
+        width: 176
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 20, z: 32, w: 18}
+      outline:
+      - - {x: -88, y: 47}
+        - {x: 88, y: 47}
+        - {x: -88, y: -47}
+      - - {x: -88, y: -47}
+        - {x: 88, y: 47}
+        - {x: 88, y: -47}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fish_bit_aries: 21300182
+      fish_bit_christmas: 21300136
+      fish_bit_crab: 21300082
+      fish_bit_fuxing: 21300058
+      fish_bit_jinchan: 21300104
+      fish_bit_liandanlu: 21300124
+      fish_bit_luxing: 21300208
+      fish_bit_sanzhounian: 21300112
+      fish_bit_shouxing: 21300218
+      fish_bit_worldcup: 21300222
+      fish_bit_xiaochou: 21300048
+      fish_bit_yuelao: 21300068
+      fish_bomb_crab: 21300028
+      fish_bomb_rulai: 21300034
+      fish_btn_add: 21300004
+      fish_btn_bag: 21300024
+      fish_btn_beibao: 21300106
+      fish_btn_book: 21300152
+      fish_btn_change: 21300126
+      fish_btn_chat: 21300214
+      fish_btn_expression: 21300186
+      fish_btn_gun: 21300172
+      fish_btn_huanfang: 21300060
+      fish_btn_huanfang_back: 21300070
+      fish_btn_huanfang_blue: 21300032
+      fish_btn_left: 21300210
+      fish_btn_likai: 21300036
+      fish_btn_minus: 21300120
+      fish_btn_paotai: 21300130
+      fish_btn_pull: 21300150
+      fish_btn_qushuban: 21300162
+      fish_btn_set: 21300206
+      fish_btn_shezhi: 21300076
+      fish_btn_tujian: 21300012
+      fish_chat_frame: 21300196
+      fish_chat_tips: 21300216
+      fish_chat_tips1: 21300050
+      fish_countdown: 21300164
+      fish_effect_light: 21300176
+      fish_ex_bg: 21300072
+      fish_ex_bg_bar_1: 21300190
+      fish_ex_bg_bar_2: 21300006
+      fish_ex_bg_point_1: 21300098
+      fish_ex_bg_point_2: 21300178
+      fish_frame_bg_red: 21300226
+      fish_frame_bg_yellow: 21300000
+      fish_frame_gunbase: 21300014
+      fish_frame_huanfang: 21300022
+      fish_frame_huanpao: 21300200
+      fish_frame_icon: 21300146
+      fish_frame_information: 21300230
+      fish_frame_lottery: 21300046
+      fish_frame_multiple: 21300174
+      fish_frame_multiple_1: 21300194
+      fish_frame_multiple_2: 21300188
+      fish_frame_multiple_3: 21300160
+      fish_frame_slider: 21300066
+      fish_hammer: 21300092
+      fish_huanfang_xian: 21300154
+      fish_icon_achievement: 21300128
+      fish_icon_activity: 21300094
+      fish_icon_forg: 21300202
+      fish_icon_gift: 21300140
+      fish_icon_gift_txt_receive: 21300100
+      fish_icon_gift_txt_tomorrow: 21300042
+      fish_icon_lottery: 21300108
+      fish_icon_pearl: 21300232
+      fish_icon_shop: 21300054
+      fish_icon_task: 21300192
+      fish_icon_update: 21300018
+      fish_img_arrow: 21300080
+      fish_img_bankruptcy: 21300102
+      fish_img_bomb: 21300052
+      fish_img_gift: 21300110
+      fish_img_gun: 21300204
+      fish_img_hammer: 21300138
+      fish_img_hand: 21300142
+      fish_img_join: 21300088
+      fish_img_rulaishenzhang: 21300016
+      fish_lunpanxie: 21300118
+      fish_mask_number: 21300114
+      fish_paota_limited_up: 21300116
+      fish_paota_limited_up_1: 21300212
+      fish_process: 21300198
+      fish_process_bg: 21300220
+      fish_qipao_chunjie: 21300030
+      fish_qipao_chunjie_yellow: 21300144
+      fish_qipao_orange: 21300074
+      fish_qipao_red: 21300158
+      fish_qipao_shengxia: 21300062
+      fish_qipao_shengxia_yellow: 21300084
+      fish_qipao_wuyi: 21300044
+      fish_qipao_wuyi_green: 21300170
+      fish_qipao_wuyi_yellow: 21300224
+      fish_qipao_yellow: 21300078
+      fish_seal: 21300228
+      fish_slide: 21300010
+      fish_slide_bg: 21300168
+      fish_text_click: 21300180
+      fish_text_fire: 21300056
+      fish_text_launch: 21300026
+      fish_text_location: 21300156
+      fish_txt_bullet: 21300184
+      fish_txt_huode: 21300090
+      fish_txt_huode_1: 21300038
+      fish_txt_immune: 21300064
+      fish_txt_jinbi: 21300002
+      fish_txt_jinbi_1: 21300166
+      fish_txt_kuangbao_1: 21300134
+      fish_txt_kuangbao_2: 21300132
+      fish_txt_kuangbao_3: 21300096
+      fish_txt_kuangbao_4: 21300020
+      fish_txt_locking: 21300008
+      fish_txt_rage: 21300122
+      fish_txt_skill: 21300086
+      fish_txt_unlock: 21300040
+      fish_wugongmiji: 21300148
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: assets_gameres_uipanel_atlas_fish.bundle
+  assetBundleVariant: 
