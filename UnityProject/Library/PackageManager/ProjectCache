@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639088139044773808
-    m_Hash: 4004161509
+      ticks: 639118377953556565
+    m_Hash: 2555979267
   m_LockFileStatus:
     m_FilePath: D:/GitRepository/Unity-Design-Pattern/UnityProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639088139044812753
-    m_Hash: 634406038
+      ticks: 639118377953646558
+    m_Hash: 3440242835
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -67,6 +67,252 @@ m_ResolvedPackages:
   repository:
     type: 
     url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+- packageId: com.tuyoogame.yooasset@2.3.18
+  testable: 0
+  isDirectDependency: 1
+  version: 2.3.18
+  source: 1
+  resolvedPath: D:\GitRepository\Unity-Design-Pattern\UnityProject\Library\PackageCache\com.tuyoogame.yooasset@2.3.18
+  assetPath: Packages/com.tuyoogame.yooasset
+  name: com.tuyoogame.yooasset
+  displayName: YooAsset
+  author:
+    name: TuYoo Games
+    email: 
+    url: https://github.com/tuyoogame/YooAsset
+  category: 
+  type: 
+  description: unity3d resources management system.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.1-preview
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.1.0
+    - 1.1.1
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.3.0-preview
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.4.0-preview
+    - 1.4.1-preview
+    - 1.4.2-preview
+    - 1.4.3-preview
+    - 1.4.4-preview
+    - 1.4.5-preview
+    - 1.4.6-preview
+    - 1.4.7
+    - 1.4.8
+    - 1.4.9
+    - 1.4.10
+    - 1.4.11
+    - 1.4.12
+    - 1.4.13
+    - 1.4.14
+    - 1.4.15
+    - 1.4.16
+    - 1.4.17
+    - 1.5.0
+    - 1.5.1
+    - 1.5.2-preview
+    - 1.5.3-preview
+    - 1.5.4-preview
+    - 1.5.5-preview
+    - 1.5.6-preview
+    - 1.5.7
+    - 2.0.0-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0-preview
+    - 2.2.1-preview
+    - 2.2.2-preview
+    - 2.2.3-preview
+    - 2.2.4-preview
+    - 2.2.5-preview
+    - 2.2.6-preview
+    - 2.2.7-preview
+    - 2.2.8-preview
+    - 2.2.9
+    - 2.2.10
+    - 2.2.11
+    - 2.2.12
+    - 2.3.0-preview
+    - 2.3.1-preview
+    - 2.3.2-preview
+    - 2.3.3-preview
+    - 2.3.4-preview
+    - 2.3.5-preview
+    - 2.3.6
+    - 2.3.7
+    - 2.3.8
+    - 2.3.9
+    - 2.3.10
+    - 2.3.11
+    - 2.3.12
+    - 2.3.13
+    - 2.3.14
+    - 2.3.15
+    - 2.3.16
+    - 2.3.17
+    - 2.3.18
+    compatible:
+    - 0.0.1-preview
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.1.0
+    - 1.1.1
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.3.0-preview
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.4.0-preview
+    - 1.4.1-preview
+    - 1.4.2-preview
+    - 1.4.3-preview
+    - 1.4.4-preview
+    - 1.4.5-preview
+    - 1.4.6-preview
+    - 1.4.7
+    - 1.4.8
+    - 1.4.9
+    - 1.4.10
+    - 1.4.11
+    - 1.4.12
+    - 1.4.13
+    - 1.4.14
+    - 1.4.15
+    - 1.4.16
+    - 1.4.17
+    - 1.5.0
+    - 1.5.1
+    - 1.5.2-preview
+    - 1.5.3-preview
+    - 1.5.4-preview
+    - 1.5.5-preview
+    - 1.5.6-preview
+    - 1.5.7
+    - 2.0.0-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0-preview
+    - 2.2.1-preview
+    - 2.2.2-preview
+    - 2.2.3-preview
+    - 2.2.4-preview
+    - 2.2.5-preview
+    - 2.2.6-preview
+    - 2.2.7-preview
+    - 2.2.8-preview
+    - 2.2.9
+    - 2.2.10
+    - 2.2.11
+    - 2.2.12
+    - 2.3.0-preview
+    - 2.3.1-preview
+    - 2.3.2-preview
+    - 2.3.3-preview
+    - 2.3.4-preview
+    - 2.3.5-preview
+    - 2.3.6
+    - 2.3.7
+    - 2.3.8
+    - 2.3.9
+    - 2.3.10
+    - 2.3.11
+    - 2.3.12
+    - 2.3.13
+    - 2.3.14
+    - 2.3.15
+    - 2.3.16
+    - 2.3.17
+    - 2.3.18
+    verified: 
+  dependencies:
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.21.25
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.21.25
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: scoped:project:package.openupm.com
+    name: package.openupm.com
+    url: https://package.openupm.com
+    scopes:
+    - com.tuyoogame.yooasset
+    isDefault: 0
+    capabilities: 0
+    configSource: 4
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639004416373410000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/tuyoogame/YooAsset.git
     revision: 
     path: 
   unityLifecycle:
@@ -256,12 +502,14 @@ m_ResolvedPackages:
     - 4.12.0
     - 4.16.3
     - 4.16.4
+    - 4.17.0
     compatible:
     - 4.4.2
     - 4.4.3
     - 4.12.0
     - 4.16.3
     - 4.16.4
+    - 4.17.0
     verified: 4.4.3
   dependencies:
   - name: com.unity.ugui
@@ -509,6 +757,7 @@ m_ResolvedPackages:
     - 2.11.2
     - 2.11.3
     - 2.11.4
+    - 2.12.4
     compatible:
     - 2.5.2
     - 2.6.0
@@ -524,6 +773,7 @@ m_ResolvedPackages:
     - 2.11.2
     - 2.11.3
     - 2.11.4
+    - 2.12.4
     verified: 2.5.2
   dependencies: []
   resolvedDependencies: []
@@ -635,6 +885,7 @@ m_ResolvedPackages:
     - 3.0.37
     - 3.0.38
     - 3.0.39
+    - 3.0.40
     compatible:
     - 3.0.31
     - 3.0.34
@@ -643,7 +894,8 @@ m_ResolvedPackages:
     - 3.0.37
     - 3.0.38
     - 3.0.39
-    verified: 3.0.39
+    - 3.0.40
+    verified: 3.0.40
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -941,6 +1193,7 @@ m_ResolvedPackages:
     - 4.14.2
     - 4.15.0-pre.1
     - 4.15.0-pre.2
+    - 4.15.0
     - 5.0.0-pre.1
     - 5.0.0-pre.3
     - 5.0.0-pre.4
@@ -958,6 +1211,8 @@ m_ResolvedPackages:
     - 5.1.2
     - 5.2.0-pre.1
     - 5.2.0-pre.2
+    - 5.2.0
+    - 5.2.1
     compatible:
     - 4.9.3
     - 4.9.4
@@ -977,6 +1232,7 @@ m_ResolvedPackages:
     - 4.14.2
     - 4.15.0-pre.1
     - 4.15.0-pre.2
+    - 4.15.0
     - 5.0.0-pre.1
     - 5.0.0-pre.3
     - 5.0.0-pre.4
@@ -994,6 +1250,8 @@ m_ResolvedPackages:
     - 5.1.2
     - 5.2.0-pre.1
     - 5.2.0-pre.2
+    - 5.2.0
+    - 5.2.1
     verified: 4.9.4
   dependencies:
   - name: com.unity.ugui
@@ -1499,6 +1757,7 @@ m_ResolvedPackages:
     - 1.8.9
     - 1.8.10
     - 1.8.11
+    - 1.8.12
     compatible:
     - 1.6.5
     - 1.7.0-pre.1
@@ -3711,6 +3970,198 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.12.5
+    nextVersion: 
+    recommendedVersion: 
+- packageId: com.unity.scriptablebuildpipeline@1.21.25
+  testable: 0
+  isDirectDependency: 0
+  version: 1.21.25
+  source: 1
+  resolvedPath: D:\GitRepository\Unity-Design-Pattern\UnityProject\Library\PackageCache\com.unity.scriptablebuildpipeline@1.21.25
+  assetPath: Packages/com.unity.scriptablebuildpipeline
+  name: com.unity.scriptablebuildpipeline
+  displayName: Scriptable Build Pipeline
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Scriptable Build Pipeline moves the asset bundle build pipeline
+    to C#.  Use the pre-defined build flows, or create your own using the divided
+    up APIs.  This system improves build time, fixes incremental build, and provides
+    greater flexibility.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.5-preview
+    - 0.0.6-preview
+    - 0.0.8-preview
+    - 0.0.9-preview
+    - 0.0.10-preview
+    - 0.0.14-preview
+    - 0.0.15-preview
+    - 0.1.0-preview
+    - 0.2.0-preview
+    - 1.0.1-preview
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.1-preview
+    - 1.3.5-preview
+    - 1.4.1-preview
+    - 1.5.0-preview
+    - 1.5.1
+    - 1.5.2
+    - 1.5.4
+    - 1.5.6
+    - 1.5.10
+    - 1.6.3-preview
+    - 1.6.4-preview
+    - 1.6.5-preview
+    - 1.7.2
+    - 1.7.3
+    - 1.8.2
+    - 1.8.4
+    - 1.8.6
+    - 1.9.0
+    - 1.10.0
+    - 1.11.1
+    - 1.11.2
+    - 1.12.0
+    - 1.13.1
+    - 1.14.0
+    - 1.14.1
+    - 1.15.1
+    - 1.15.2
+    - 1.16.1
+    - 1.17.0
+    - 1.18.0
+    - 1.19.0
+    - 1.19.1
+    - 1.19.2
+    - 1.19.3
+    - 1.19.4
+    - 1.19.5
+    - 1.19.6
+    - 1.20.1
+    - 1.20.2
+    - 1.21.0
+    - 1.21.1
+    - 1.21.2
+    - 1.21.3
+    - 1.21.5
+    - 1.21.7
+    - 1.21.8
+    - 1.21.9
+    - 1.21.20
+    - 1.21.21
+    - 1.21.22
+    - 1.21.23
+    - 1.21.24
+    - 1.21.25
+    - 1.22.1
+    - 1.22.2
+    - 1.22.4
+    - 1.22.5
+    - 1.23.0
+    - 1.23.1
+    - 1.23.2
+    - 1.23.3
+    - 1.23.4
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.2.4
+    - 2.2.11
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5
+    - 2.3.6
+    - 2.3.7
+    - 2.3.8
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.5.0
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.6.1
+    - 3.0.0
+    - 3.0.1
+    compatible:
+    - 1.20.1
+    - 1.20.2
+    - 1.21.0
+    - 1.21.1
+    - 1.21.2
+    - 1.21.3
+    - 1.21.5
+    - 1.21.7
+    - 1.21.8
+    - 1.21.9
+    - 1.21.20
+    - 1.21.21
+    - 1.21.22
+    - 1.21.23
+    - 1.21.24
+    - 1.21.25
+    - 1.22.1
+    - 1.22.2
+    - 1.22.4
+    - 1.22.5
+    - 1.23.0
+    - 1.23.1
+    - 1.23.2
+    - 1.23.3
+    - 1.23.4
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.2.4
+    verified: 1.20.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - build
+  - bundle
+  - bundles
+  - assetbundles
+  - cache
+  - server
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.cn
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638651006470000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.scriptablebuildpipeline@1.21/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/Addressables.git
+    revision: 10cb5465c9d5eb7ae72cfc3c120116131c3852f0
+    path: 
+  unityLifecycle:
+    version: 1.20.1
     nextVersion: 
     recommendedVersion: 
 - packageId: com.unity.nuget.newtonsoft-json@3.2.1

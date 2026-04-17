@@ -1,0 +1,37 @@
+﻿2026-04-15 19:14:21.507 [INFO] Begin to build package : DefaultPackage by ScriptableBuildPipeline
+2026-04-15 19:14:21.507 [INFO] --------------------------------------------->TaskPrepare<--------------------------------------------
+2026-04-15 19:14:21.507 [INFO] TaskPrepare It takes 0 seconds in total
+2026-04-15 19:14:21.508 [INFO] --------------------------------------------->TaskGetBuildMap<--------------------------------------------
+2026-04-15 19:14:21.637 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Samples/YooAsset/2.3.18/Space Shooter/GameRes/EntityArt/vehicle_enemyShip/vehicle_enemyShip_red_dff.tif
+2026-04-15 19:14:21.637 [WARN] [ErrorCode201] Found undepended asset and remove it : Assets/Samples/YooAsset/2.3.18/Space Shooter/GameRes/UIFont/LICENSE.txt
+2026-04-15 19:14:21.644 [INFO] TaskGetBuildMap It takes 0 seconds in total
+2026-04-15 19:14:21.644 [INFO] --------------------------------------------->TaskBuilding<--------------------------------------------
+2026-04-15 19:14:26.828 [INFO] UnityEngine build success!
+2026-04-15 19:14:26.828 [INFO] TaskBuilding It takes 5 seconds in total
+2026-04-15 19:14:26.828 [INFO] --------------------------------------------->TaskVerifyBuildResult<--------------------------------------------
+2026-04-15 19:14:26.828 [INFO] Build results verify success!
+2026-04-15 19:14:26.828 [INFO] TaskVerifyBuildResult It takes 0 seconds in total
+2026-04-15 19:14:26.828 [INFO] --------------------------------------------->TaskEncryption<--------------------------------------------
+2026-04-15 19:14:26.828 [INFO] TaskEncryption It takes 0 seconds in total
+2026-04-15 19:14:26.828 [INFO] --------------------------------------------->TaskUpdateBundleInfo<--------------------------------------------
+2026-04-15 19:14:26.978 [INFO] TaskUpdateBundleInfo It takes 0 seconds in total
+2026-04-15 19:14:26.979 [INFO] --------------------------------------------->TaskCreateManifest<--------------------------------------------
+2026-04-15 19:14:26.979 [WARN] [ErrorCode601] Found stray bundle ! Bundle ID : 42 Bundle name : defaultpackage_unityshaders.bundle
+2026-04-15 19:14:27.007 [INFO] Create package manifest file: D:/GitRepository/Unity-Design-Pattern/UnityProject/Bundles/StandaloneWindows64/DefaultPackage/2026-04-15-1131/DefaultPackage_2026-04-15-1131.json
+2026-04-15 19:14:27.026 [INFO] Create package manifest file: D:/GitRepository/Unity-Design-Pattern/UnityProject/Bundles/StandaloneWindows64/DefaultPackage/2026-04-15-1131/DefaultPackage_2026-04-15-1131.bytes
+2026-04-15 19:14:27.029 [INFO] Create package manifest hash file: D:/GitRepository/Unity-Design-Pattern/UnityProject/Bundles/StandaloneWindows64/DefaultPackage/2026-04-15-1131/DefaultPackage_2026-04-15-1131.hash
+2026-04-15 19:14:27.033 [INFO] Create package manifest version file: D:/GitRepository/Unity-Design-Pattern/UnityProject/Bundles/StandaloneWindows64/DefaultPackage/2026-04-15-1131/DefaultPackage.version
+2026-04-15 19:14:27.033 [INFO] TaskCreateManifest It takes 0 seconds in total
+2026-04-15 19:14:27.033 [INFO] --------------------------------------------->TaskCreateReport<--------------------------------------------
+2026-04-15 19:14:27.039 [INFO] Create build report file: D:/GitRepository/Unity-Design-Pattern/UnityProject/Bundles/StandaloneWindows64/DefaultPackage/2026-04-15-1131/DefaultPackage_2026-04-15-1131.report
+2026-04-15 19:14:27.039 [INFO] TaskCreateReport It takes 0 seconds in total
+2026-04-15 19:14:27.039 [INFO] --------------------------------------------->TaskCreatePackage<--------------------------------------------
+2026-04-15 19:14:27.039 [INFO] Start making patch package: D:/GitRepository/Unity-Design-Pattern/UnityProject/Bundles/StandaloneWindows64/DefaultPackage/2026-04-15-1131
+2026-04-15 19:14:27.075 [INFO] TaskCreatePackage It takes 0 seconds in total
+2026-04-15 19:14:27.075 [INFO] --------------------------------------------->TaskCopyBuildinFiles<--------------------------------------------
+2026-04-15 19:14:27.902 [INFO] Buildin files copy complete: D:/GitRepository/Unity-Design-Pattern/UnityProject/Assets/StreamingAssets/yoo/DefaultPackage
+2026-04-15 19:14:27.902 [INFO] TaskCopyBuildinFiles It takes 0 seconds in total
+2026-04-15 19:14:27.902 [INFO] --------------------------------------------->TaskCreateCatalog<--------------------------------------------
+2026-04-15 19:14:28.023 [INFO] TaskCreateCatalog It takes 0 seconds in total
+2026-04-15 19:14:28.023 [INFO] Total build process time: 5 seconds
+2026-04-15 19:14:28.023 [INFO] Resource pipeline build success

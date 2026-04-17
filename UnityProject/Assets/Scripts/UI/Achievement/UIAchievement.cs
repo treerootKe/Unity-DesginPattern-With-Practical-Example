@@ -1,9 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using DataTables;
 using GlobalData;
 using Tools;
 using UnityEngine;
 using UnityEngine.Serialization;
+using YooAsset;
+using Object = UnityEngine.Object;
 
 namespace UI.Achievement
 {
@@ -40,16 +44,116 @@ namespace UI.Achievement
         
         private void Awake()
         {
-            FindComponent();
+            // FindComponent();
+            // 初始化资源系统
+            YooAssets.Initialize();
+
+// 创建默认的资源包
+            // var package = YooAssets.CreatePackage("DefaultPackage");
+
+// 获取指定的资源包，如果没有找到会报错
+            // var package = YooAssets.GetPackage("DefaultPackage");
+
+// 获取指定的资源包，如果没有找到不会报错
+            var package = YooAssets.TryGetPackage("DefaultPackage");
+
+// 设置该资源包为默认的资源包，可以使用YooAssets相关加载接口加载该资源包内容。
+            YooAssets.SetDefaultPackage(package);
+            StartCoroutine(InitYooPack(package));
         }
 
+        private IEnumerator InitYooPack(ResourcePackage package)
+        {
+            var buildResult = EditorSimulateModeHelper.SimulateBuild("DefaultPackage");    
+            var packageRoot = buildResult.PackageRootDirectory;
+            var fileSystemParams = FileSystemParameters.CreateDefaultEditorFileSystemParameters(packageRoot);
+    
+            var createParameters = new EditorSimulateModeParameters();
+            createParameters.EditorFileSystemParameters = fileSystemParams;
+            
+            var initOperation = package.InitializeAsync(createParameters);
+            yield return initOperation;
+    
+            if(initOperation.Status == EOperationStatus.Succeed)
+                Debug.Log("资源包初始化成功！");
+            else 
+                Debug.LogError($"资源包初始化失败：{initOperation.Error}");
+            
+            yield return RequestPackageVersion();
+            // yield return UpdatePackageManifest();
+            
+            var objItem = YooAssets.LoadAssetSync<GameObject>("engines_player");
+            var obj = objItem.AssetObject as GameObject;
+            var initObj = Object.Instantiate(obj, this.transform, true);
+            initObj.transform.localPosition = Vector3.zero;
+            initObj.transform.localRotation = Quaternion.identity;
+            initObj.transform.localScale = Vector3.one;
+        }
+        
+        private IEnumerator RequestPackageVersion()
+        {
+            var package = YooAssets.GetPackage("DefaultPackage");
+            var operation = package.RequestPackageVersionAsync();
+            yield return operation;
+
+            if (operation.Status == EOperationStatus.Succeed)
+            {
+                //更新成功
+                string packageVersion = operation.PackageVersion;
+                Debug.Log($"Request package Version : {packageVersion}");
+                
+                
+                var operation1 = package.UpdatePackageManifestAsync(packageVersion);
+                yield return operation1;
+
+                if (operation1.Status == EOperationStatus.Succeed)
+                {
+                    //更新成功
+                }
+                else
+                {
+                    //更新失败
+                    Debug.LogError(operation.Error);
+                }
+            }
+            else
+            {
+                //更新失败
+                Debug.LogError(operation.Error);
+            }
+        }
+        
+        // private IEnumerator UpdatePackageManifest()
+        // {
+        //
+        // }
+
+        private IEnumerator DestroyPackage()
+        {
+            // 先销毁资源包
+            var package = YooAssets.GetPackage("DefaultPackage");
+            DestroyOperation operation = package.DestroyAsync();
+            yield return operation;
+    
+            // 然后移除资源包
+            if (YooAssets.RemovePackage(package))
+            {
+                Debug.Log("移除成功！");
+            }
+        }
+        
+        private void OnDisable()
+        {
+            StartCoroutine(DestroyPackage());
+        }
+        
         private void Start()
         {
-            _dicAchievementData = LubanConfigTable.Instance.LubanTables.AchievementTable.DataMap;
-
-            PoolAchievementCategory = new ObjectPoolMono<AchievementCategory>(defaultCategory, 2, 10);
-            PoolAchievementParent = new ObjectPoolMono<AchievementParent>(defaultParent, 3, 10);
-            PoolAchievementItem = new ObjectPoolMono<AchievementItem>(defaultItem, 5, 50);
+            // _dicAchievementData = LubanConfigTable.Instance.LubanTables.AchievementTable.DataMap;
+            //
+            // PoolAchievementCategory = new ObjectPoolMono<AchievementCategory>(defaultCategory, 2, 10);
+            // PoolAchievementParent = new ObjectPoolMono<AchievementParent>(defaultParent, 3, 10);
+            // PoolAchievementItem = new ObjectPoolMono<AchievementItem>(defaultItem, 5, 50);
             
         }
 
